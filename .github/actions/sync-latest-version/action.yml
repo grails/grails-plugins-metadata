@@ -1,0 +1,5 @@
+name: Sync Latest Version Action
+description: Fetch the latest version from a given Maven Metadata URL and update the grails-plugins.json file in the project root
+runs:
+  using: docker
+  image: Dockerfile
