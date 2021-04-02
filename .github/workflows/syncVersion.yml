@@ -1,0 +1,28 @@
+name: Sync Versions
+on:
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      GIT_USER_NAME: puneetbehl
+      GIT_USER_EMAIL: behlp@objectcomputing.com
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Sync Latest Version
+        uses: ./.github/actions/sync-latest-version
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          committer: ${{ env.GIT_USER_NAME }} <${{ env.GIT_USER_EMAIL }}>
+          author: ${{ env.GIT_USER_NAME }} <${{ env.GIT_USER_EMAIL }}>
+          commit-message: Update Metadata
+          title: 'Update Plugins JSON Metadata'
+          body: Upgrade latestVersion/coordinates of the plugins
+          labels: "type: update-latest-version"
+          base: ${{ env.githubBranch }}
+          branch: updateLatestVersion
