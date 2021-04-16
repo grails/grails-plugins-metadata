@@ -3558,22 +3558,22 @@
       "name": "joda-time",
       "repo": "plugins",
       "owner": "grails",
-      "desc": "Grails joda-time plugin",
+      "desc": "Joda-Time Plugin",
       "labels": [
 
       ],
       "licenses": [
         "Apache-2.0"
       ],
-      "issueTrackerUrl": "https://github.com/grails3-plugins/joda-time/issues",
+      "issueTrackerUrl": "https://github.com/gpc/joda-time/issues",
       "latestVersion": "2.1.0",
       "updated": "2018-06-19T11:29:37.127Z",
       "systemIds": [
         "org.grails.plugins:joda-time"
       ],
-      "vcsUrl": "https://github.com/grails3-plugins/joda-time"
+      "vcsUrl": "https://github.com/gpc/joda-time"
     },
-    "documentationUrl": null,
+    "documentationUrl": "https://gpc.github.io/joda-time/",
     "mavenMetadataUrl": null,
     "readme": null
   },
