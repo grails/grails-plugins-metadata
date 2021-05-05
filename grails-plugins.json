@@ -32,7 +32,7 @@
             "owner": "bostanio",
             "desc": "Airbrake Client for Grails",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -56,7 +56,7 @@
             "owner": "grails",
             "desc": "Grails ajax-tags plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -80,7 +80,7 @@
             "owner": "vahid",
             "desc": "Grails ajaxdependancyselection plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -104,7 +104,7 @@
             "owner": "rvanderwerf",
             "desc": "This is a Grails 3.x plugin to help make Amazon Alexa Skills /  Speechlets",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -128,7 +128,7 @@
             "owner": "craigburke",
             "desc": "AngularJS Annotate for Asset Pipeline 2.0+",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -152,7 +152,7 @@
             "owner": "grails",
             "desc": "Provides scaffolding for AngularJS 1.x applications",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -176,7 +176,7 @@
             "owner": "craigburke",
             "desc": "AngularJS Templates for Asset Pipeline 2.0+",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -200,7 +200,7 @@
             "owner": "grails",
             "desc": "Provides scaffolding for Angular 2 applications",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -224,7 +224,7 @@
             "owner": "grails",
             "desc": "Provides scaffolding for AngularJS 1.x applications",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -248,7 +248,7 @@
             "owner": "grails",
             "desc": "Grails json-annotations-marshaller plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -257,7 +257,7 @@
             "latestVersion": "1.0",
             "updated": "2016-03-31T16:14:33.462Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/anthofo/grails3-json-annotations-marshaller"
         },
@@ -272,7 +272,7 @@
             "owner": "neilab",
             "desc": "Allows external configuration via grails.config.locations, JNDI, and system properties",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -296,7 +296,7 @@
             "owner": "grails",
             "desc": "Grails asset-pipeline plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -320,7 +320,7 @@
             "owner": "bertramlabs",
             "desc": "The Asset-Pipeline is a plugin used for managing and processing static assets in Grails applications. Asset-Pipeline functions include processing and minification of both CSS and JavaScript files. It is also capable of being extended to compile custom static assets, such as CoffeeScript.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -344,7 +344,7 @@
             "owner": "dpcasady",
             "desc": "Grails asset pipeline handlebars templates renderer plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -368,7 +368,7 @@
             "owner": "grails",
             "desc": "Grails Async - Grails Async Libraries",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -448,7 +448,7 @@
             "owner": "9ci",
             "desc": "Audit Trails Grails Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -472,7 +472,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -496,7 +496,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK DynamoDB plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -520,7 +520,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK Kinesis plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -544,7 +544,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK S3 plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -568,7 +568,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK SES plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -592,7 +592,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK SNS plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -616,7 +616,7 @@
             "owner": "agorapulse",
             "desc": "Grails AWS SDK SQS plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -640,7 +640,7 @@
             "owner": "errbuddy",
             "desc": "Babel.js transformation for Asset-pipeline",
             "labels": [
-                
+
             ],
             "licenses": [
                 "BSD 2-Clause"
@@ -692,7 +692,7 @@
             "owner": "vahid",
             "desc": "Websocket autocomplete/ multi dependency selection plugin for grails 3",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -716,7 +716,7 @@
             "owner": "grails",
             "desc": "Airbrake Client for Grails",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -725,7 +725,7 @@
             "latestVersion": "1.0.RC1",
             "updated": "2016-03-31T16:15:11.129Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/cavneb/airbrake-grails"
         },
@@ -740,7 +740,7 @@
             "owner": "mathifonseca",
             "desc": "Grails Browser Detection Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -764,7 +764,7 @@
             "owner": "longwa",
             "desc": "Grails build-test-data plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -788,7 +788,7 @@
             "owner": "grails",
             "desc": "Grails cache plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -812,7 +812,7 @@
             "owner": "grails",
             "desc": "Provides an ehcache implementation of the cache plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -836,7 +836,7 @@
             "owner": "mkobel",
             "desc": "The guava cache provides a simple in memory cache with maximal capacity and TTL.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -860,7 +860,7 @@
             "owner": "grails",
             "desc": "Improve your application performance with browser caching, with easy ways to set caching headers\nin controller responses",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -934,7 +934,7 @@
             "owner": "stefanogualdi",
             "desc": "CKeditor web WYSIWYG editor integration plugin.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -958,7 +958,7 @@
             "owner": "grails",
             "desc": "Grails clojure plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -967,7 +967,7 @@
             "latestVersion": "2.0.0.RC2",
             "updated": "2016-10-03T14:35:20.851Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/grails-plugins/clojure"
         },
@@ -982,7 +982,7 @@
             "owner": "frnktrgr",
             "desc": "CMEditor is a simple way to use the popular CodeMirror web editor in grails applications. You can use it to edit pretty much anything that can be mapped to a file-like object. I.e. something with a filename and text-content. If your model requires additional fields this is supported, too.     For example managing your library could be done by mapping filename to \"Frank Tr\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdger - CMEditor\". The tabbed editor then could manage everything: Author, title, publication year and - of course - the books content in a nice-to-use CodeMirror editor. You could even edit multiple books simultaneously.     Check out our demo grails project at https://github.com/RRZE-PP/grails-cmeditor-demo.     ",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1060,7 +1060,7 @@
             "owner": "bertramlabs",
             "desc": "Provides Compass/SCSS Build support using the jruby runtime. Any compass project can be adjusted to be built by the asset-pipeline and used in applications.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1084,7 +1084,7 @@
             "owner": "sheehan",
             "desc": "A web-based Groovy console for interactive runtime application management and debugging.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1108,7 +1108,7 @@
             "owner": "puravida-software",
             "desc": "Consulta el nombre registrado en la AEAT para un NIF dado",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1132,7 +1132,7 @@
             "owner": "grails",
             "desc": "Provides JSON and XML converters",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1186,7 +1186,7 @@
             "owner": "benlucchesi",
             "desc": "Grails cookiesession plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1210,7 +1210,7 @@
             "owner": "double16",
             "desc": "The Cookie Session plugin enables grails applications to store session data in http cookies between requests instead of in memory on the server.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1315,7 +1315,7 @@
             "owner": "grails",
             "desc": "Grails database-migration plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1339,7 +1339,7 @@
             "owner": "vahid",
             "desc": "Grails Days Of week plugin using ICU4J libraries to work out internationl calendar week days",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1363,7 +1363,7 @@
             "owner": "grails",
             "desc": "Grails db-reverse-engineer plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1387,7 +1387,7 @@
             "owner": "desirable-objects",
             "desc": "Grails oauth plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1411,7 +1411,7 @@
             "owner": "bertramlabs",
             "desc": "This plugin provides a framework and interface for a synchronization mechanism distributed to multiple server instances.  In today's world of horizontal computational\nscale and massive concurrency, it becomes increasingly difficult to synchronize operations outside the context of a single computational space (server/process).  This plugin aims to make that\neasier by providing a simple service to facilitate this, as well as defining an interface for adding low level providers.\n",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1435,7 +1435,7 @@
             "owner": "budjb",
             "desc": "The Distributed Mutex plugin provides a way to create mutexes backed by a database row. This helps when writing distributed systems that need to lock a resource but database transactions are not sufficient to encapsulate the resource being accessed.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1459,7 +1459,7 @@
             "owner": "domurtag",
             "desc": "Grails grails-simple-captcha plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1483,7 +1483,7 @@
             "owner": "domurtag",
             "desc": "Grails runtime-datasources plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1507,7 +1507,7 @@
             "owner": "grails",
             "desc": "Monitoring And Metrics Plugin For Grails 3",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1531,7 +1531,7 @@
             "owner": "grails",
             "desc": "Adds Dropwizard metrics reporting to Graphite For Grails 3",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1555,7 +1555,7 @@
             "owner": "dbpatel219",
             "desc": "Change Application Log Levels via Rabbit MQ messages at Runtime.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1579,7 +1579,7 @@
             "owner": "puneetbehl",
             "desc": "Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. This is the Grails 3 plugin to support Elasticsearch",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1603,7 +1603,7 @@
             "owner": "grails",
             "desc": "Executes an embedded mongo database for integration or functional testing",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1627,7 +1627,7 @@
             "owner": "purpleraven",
             "desc": "Plugin allows to use embedded MySQL in application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1651,7 +1651,7 @@
             "owner": "relaximus",
             "desc": "Plugin allows to use embedded postgres in application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1677,7 +1677,7 @@
             "owner": "bertramlabs",
             "desc": "Compiles hbs or handlebars files for the asset-pipeline into the Ember.TEMPLATES cache",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1701,7 +1701,7 @@
             "owner": "grails",
             "desc": "Grails Events - EventBus abstraction for Grails",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1725,7 +1725,7 @@
             "owner": "exanpe",
             "desc": "Provides easy integration with DataTables.net (Table plug-in for jQuery)",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1749,7 +1749,7 @@
             "owner": "grails-excel-export",
             "desc": "This plugin helps you export data in Excel (xlsx) format, using Apache POI.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1774,7 +1774,7 @@
             "owner": "grails",
             "desc": "Grails Excel Import Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1798,7 +1798,7 @@
             "owner": "grails",
             "desc": "Grails export plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1807,7 +1807,7 @@
             "latestVersion": "2.0.0",
             "updated": "2016-10-03T14:39:59.214Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/gpc/export"
         },
@@ -1820,9 +1820,9 @@
             "name": "external-config",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "\t\r\nLoad configs with grails.config.locations like in Grails 2.x",
+            "desc": "Load configs with grails.config.locations like in Grails 2.x",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1831,7 +1831,7 @@
             "latestVersion": "1.4.0",
             "updated": "2019-07-17T10:39:49.954Z",
             "systemIds": [
-                "org.grails.plugins:external-config"
+                "dk.glasius:external-config"
             ],
             "vcsUrl": "https://github.com/sbglasius/external-config"
         },
@@ -1846,7 +1846,7 @@
             "owner": "agorapulse",
             "desc": "Grails Facebook SDK plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1870,7 +1870,7 @@
             "owner": "grails",
             "desc": "Grails fields plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1894,7 +1894,7 @@
             "owner": "tothenew",
             "desc": "Grails plugin which allows you to view files stored on the file system.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1903,7 +1903,7 @@
             "latestVersion": null,
             "updated": "2016-03-31T13:31:54.746Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/intelligrape/File-Viewer-Grails-Plugin"
         },
@@ -1944,7 +1944,7 @@
             "owner": "purpleraven",
             "desc": "Load complex domain data via a simple DSL",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1968,7 +1968,7 @@
             "owner": "bertramlabs",
             "desc": "Creates a simple annotation to mark controller/actions as SSL restricted and performs the appropriate redirect.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1992,7 +1992,7 @@
             "owner": "grails",
             "desc": "Grails geb plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2016,7 +2016,7 @@
             "owner": "grails",
             "desc": "GORM GraphQL - Generates a GraphQL schema based on entities in GORM",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2040,7 +2040,7 @@
             "owner": "grails",
             "desc": "GORM GraphQL - Generates a GraphQL schema based on entities in GORM",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2064,7 +2064,7 @@
             "owner": "grails",
             "desc": "Adds logical delete capabilities to GORM",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2088,7 +2088,7 @@
             "owner": "9ci",
             "desc": "repository pattern, data services, fast data binding and json/rest/map based query plugin for grails gorm",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2112,7 +2112,7 @@
             "owner": "reid",
             "desc": "Grails Advanced Config Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2136,7 +2136,7 @@
             "owner": "ikalizpet",
             "desc": "A Grails plugin to provide applicaiton system information for health-check and runtime inspection",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2160,7 +2160,7 @@
             "owner": "jvilaplana",
             "desc": "Easy form fields generation taglib.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "MIT"
@@ -2184,7 +2184,7 @@
             "owner": "uberall",
             "desc": "Full plugin description",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2208,7 +2208,7 @@
             "owner": "aruizca",
             "desc": "Grails grails-google-visualization plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2232,7 +2232,7 @@
             "owner": "frnktrgr",
             "desc": "Run Groovy scripts in Grails",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2256,7 +2256,7 @@
             "owner": "piotrchowaniec",
             "desc": "",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2280,7 +2280,7 @@
             "owner": "goodstartgenetics",
             "desc": "Provides utilities to define hibernate filters on classes and collections. Meant to be used with Grails 3.2 and higher, Hibernate 5, and GORM 6",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2332,7 +2332,7 @@
             "owner": "grails",
             "desc": "Provides support for Java 8 specific features in Grails",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2356,7 +2356,7 @@
             "owner": "gregopet",
             "desc": "",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2380,7 +2380,7 @@
             "owner": "orkonano",
             "desc": "Grails grails-mailgun plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2404,7 +2404,7 @@
             "owner": "junehasissues",
             "desc": "This Plugin reads unread mails from provided mail account Id. To Grails 3 updated Version of https://github.com/IntelliGrape/Grails-Mail-Watcher-Plugin.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2428,7 +2428,7 @@
             "owner": "sergiomichels",
             "desc": "Integrate JavaMelody monitoring into Grails application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2452,7 +2452,7 @@
             "owner": "purpleraven",
             "desc": "Store pages of page fragments in memcached",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2476,7 +2476,7 @@
             "owner": "lduarte",
             "desc": "Grails grails-middleware plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2500,7 +2500,7 @@
             "owner": "ataylor284",
             "desc": "Adds support for using Google's libphonenumber library to validate phone numbers",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2524,7 +2524,7 @@
             "owner": "cazacugmihai",
             "desc": "A plugin that allows you to display human readable, relative timestamps.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2548,7 +2548,7 @@
             "owner": "frnktrgr",
             "desc": "Provides easy access to Pushover API",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2572,7 +2572,7 @@
             "owner": "grails",
             "desc": "\nSearch plugin for domain class properties. Lightweight plugin which puts the ability for searching, it adds utility\nfunctions for building the search result into a string format representation sufficient for auto-complete as well as\nfunctions for listing the results based on the search query.\n",
             "labels": [
-                
+
             ],
             "licenses": [
                 "BSD"
@@ -2623,7 +2623,7 @@
             "owner": "nerderg",
             "desc": "Secure your Grails application quickly and easily using the Apache Shiro security framework.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2647,7 +2647,7 @@
             "owner": "zyro",
             "desc": "",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2671,7 +2671,7 @@
             "owner": "novadge",
             "desc": "Provides SMS sending capabilities to a Grails application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2751,7 +2751,7 @@
             "owner": "mrhaki",
             "desc": "Servlet filter that adds a X-FRAME-OPTIONS response header",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2800,7 +2800,7 @@
             "owner": "pankajtandon",
             "desc": "Plugin to upload multiple files from a web page. Uses HTML5 and CSS3",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2824,7 +2824,7 @@
             "owner": "rpalcolea",
             "desc": "Grails plugin for displaying avatars from Gravatar",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2848,7 +2848,7 @@
             "owner": "grails",
             "desc": "Grails GreenMail Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2872,7 +2872,7 @@
             "owner": "grails",
             "desc": "Grails Server Pages (GSP) - GSP (Grails Server Pages) - A server-side view rendering technology based on Groovy",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2896,7 +2896,7 @@
             "owner": "bertramlabs",
             "desc": "Provides native Handlebars file support in the asset-pipeline. Easily convert .hbs or .handlebars files into javascript template caches for use with the handlebars runtime.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2920,7 +2920,7 @@
             "owner": "salex772",
             "desc": "Grails handlebars templates renderer plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2944,7 +2944,7 @@
             "owner": "budjb",
             "desc": "Grails hazelcast plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2968,7 +2968,7 @@
             "owner": "enesakar",
             "desc": "Hazelcast Grails Integration",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2992,7 +2992,7 @@
             "owner": "grails",
             "desc": "GORM - Grails Data Access Framework",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3001,7 +3001,7 @@
             "latestVersion": "4.3.10.7",
             "updated": "2016-10-03T14:41:45.128Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/grails/grails-data-mapping"
         },
@@ -3016,7 +3016,7 @@
             "owner": "lgrignon",
             "desc": "This plugin aims to integrate Hibernate Search features to Grails in very few steps.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3121,7 +3121,7 @@
             "owner": "snimavat",
             "desc": "Html Cleaner Grails Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3145,7 +3145,7 @@
             "owner": "agorapulse",
             "desc": "Grails HTML Cleaner plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3169,7 +3169,7 @@
             "owner": "grails",
             "desc": "Grails HTTP Builder Helper Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3193,7 +3193,7 @@
             "owner": "budjb",
             "desc": "The HTTP Requests Plugin provides the http-requests library and artefacts for filters and converters.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3217,7 +3217,7 @@
             "owner": "amc-world",
             "desc": "asset-pipeline plugin to use localized messages in JavaScript.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3267,7 +3267,7 @@
             "owner": "salex772",
             "desc": "Render all Grails i18n messages to Javascript",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3291,7 +3291,7 @@
             "owner": "puneetbehl",
             "desc": "Grails jasper plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3315,7 +3315,7 @@
             "owner": "9ci",
             "desc": "Jasper reports Grails Plugin - Jasper reports Grails Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3339,7 +3339,7 @@
             "owner": "budjb",
             "desc": "The jaxrs project is a set of Grails plugins that supports the development of RESTful web services based\r\non the Java API for RESTful Web Services.\r\n\r\nThe jaxrs-core plugin provides the main functionality of the plugin. This plugin does not include an implementing JAX-RS servlet provider, however, so one of the implementation plugins should be included in projects instead.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3363,7 +3363,7 @@
             "owner": "budjb",
             "desc": "The jaxrs project is a set of Grails plugins that supports the development of RESTful web services based\r\non the Java API for RESTful Web Services.\r\n\r\nThe jaxrs-integration-test plugin provides classes to help with integration testing.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3387,7 +3387,7 @@
             "owner": "budjb",
             "desc": "The jaxrs project is a set of Grails plugins that supports the development of RESTful web services based\r\non the Java API for RESTful Web Services.\r\n\r\nThe jaxrs-jersey1 plugin implements the Jersey 1.x JAX-RS implementation.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3411,7 +3411,7 @@
             "owner": "budjb",
             "desc": "The jaxrs project is a set of Grails plugins that supports the development of RESTful web services based\r\non the Java API for RESTful Web Services.\r\n\r\nThe jaxrs-restlet plugin implements the Restlet JAX-RS implementation.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3435,7 +3435,7 @@
             "owner": "budjb",
             "desc": "Integrates the Swagger UI with applications using JAX-RS resources.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3459,7 +3459,7 @@
             "owner": "vahid",
             "desc": "Grails Jenjir plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3511,7 +3511,7 @@
             "owner": "uberall",
             "desc": "Admin UI for the Grails Jesque Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3536,7 +3536,7 @@
             "owner": "grails",
             "desc": "Grails jms plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3560,7 +3560,7 @@
             "owner": "grails",
             "desc": "Joda-Time Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3584,7 +3584,7 @@
             "owner": "grails",
             "desc": "Grails 3 plugin for managing JSON marshalling through annotations",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3593,7 +3593,7 @@
             "latestVersion": "v1.0",
             "updated": "2016-03-31T16:16:47.970Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/tony75/grails3-json-annotations-marshaller"
         },
@@ -3608,7 +3608,7 @@
             "owner": "vahid",
             "desc": "Grails j2ssh plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3632,7 +3632,7 @@
             "owner": "bertramlabs",
             "desc": "Karman is a standardized / extensible interface plugin for dealing with various cloud services including Local, S3, and Openstack.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3656,7 +3656,7 @@
             "owner": "vahid",
             "desc": "Grails Global postal code to address resolving Plugin KML Map Boundary utilities loader editor. Postcodes restricted to customised boundaries",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3682,7 +3682,7 @@
             "owner": "grails",
             "desc": "Grails LDAP Server Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3706,7 +3706,7 @@
             "owner": "bertramlabs",
             "desc": "LESS Compiler for the Asset-Pipeline",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3730,7 +3730,7 @@
             "owner": "herrvendil",
             "desc": "Grails 3.x Plugin to integrate LightningJ into a Grails application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "LGPL-3.0"
@@ -3754,7 +3754,7 @@
             "owner": "grails",
             "desc": "Grails mail plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3778,7 +3778,7 @@
             "owner": "vahid",
             "desc": "mailinglist is a Grails plugin which makes use of quartz to dynamically schedule either group or specific email address contact. You create html email templates with images etc, then define time and date for this to be sent. The job is then added to quartz and set to email at given time. The queue can easily be controlled via bootstrap so that nothing is ever lost.\r\n\r\nDo you want to email a person at 11:41 pm or maybe a group of people at 2.15am? then look no further.\r\n\r\nYou can schedule an email to be scheduled and to run on a set date and time.\r\n\r\nSupports HTML emails with inline images as well as attachments has been tested on outlook and result appears to load fine.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3802,7 +3802,7 @@
             "owner": "grails",
             "desc": "Grails Plugin For Adding Micronaut Beans To The Spring Application Context",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3826,7 +3826,7 @@
             "owner": "lduarte",
             "desc": "Grails middleware plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3908,7 +3908,7 @@
             "owner": "ikalizpet",
             "desc": "Mongogee is a Grails plugin for MongoDB data migration management",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3932,7 +3932,7 @@
             "owner": "troutbird",
             "desc": null,
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -3982,7 +3982,7 @@
             "owner": "agorapulse",
             "desc": "Grails NewRelic plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4033,7 +4033,7 @@
             "owner": "grails",
             "desc": "Grails CSV plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4042,7 +4042,7 @@
             "latestVersion": null,
             "updated": "2017-11-15T13:54:48.264Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/vsachinv/grails-csv"
         },
@@ -4057,7 +4057,7 @@
             "owner": "yamkazu",
             "desc": "Grails database-migration plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4108,7 +4108,7 @@
             "owner": "desirable-objects",
             "desc": "Grails feature-switch plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4132,7 +4132,7 @@
             "owner": "grails",
             "desc": "Grails geb plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4141,7 +4141,7 @@
             "latestVersion": "1.0.1",
             "updated": "2016-04-01T15:40:48.261Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/grails3-plugins/geb/"
         },
@@ -4181,7 +4181,7 @@
             "owner": "grails-aws",
             "desc": "Grails AWS Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4205,7 +4205,7 @@
             "owner": "saw303",
             "desc": "Grails grails-flyway plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4229,7 +4229,7 @@
             "owner": "tednaleid",
             "desc": "Grails grails-markdown plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4307,7 +4307,7 @@
             "owner": "saw303",
             "desc": "Grails iCalendar plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4331,7 +4331,7 @@
             "owner": "dtanner",
             "desc": "Integration with Jasypt, allows easy encryption of information including Hibernate/GORM integration",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4355,7 +4355,7 @@
             "owner": "anthofo",
             "desc": "Grails json-annotations-marshaller plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4379,7 +4379,7 @@
             "owner": "ishults",
             "desc": "A simple plugin to log Hibernate statistics across controller actions.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4403,7 +4403,7 @@
             "owner": "jamescookie",
             "desc": "Grails quartz-monitor plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4427,7 +4427,7 @@
             "owner": "grails",
             "desc": "Grails p6spy-ui plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4451,7 +4451,7 @@
             "owner": "novadge",
             "desc": "Accept and process payments with Paypal SDK",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4475,7 +4475,7 @@
             "owner": "dubems",
             "desc": "Plugin to communicate with paystack API",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4524,7 +4524,7 @@
             "owner": "technipelago",
             "desc": "A plugin that allows you to create QR codes as part of your Grails application without the need for an external service",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4548,7 +4548,7 @@
             "owner": "grails",
             "desc": "Grails quartz plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4572,7 +4572,7 @@
             "owner": "9ci",
             "desc": "Quartz Config Scheduler - Allow creating quartz job from configuration",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4728,7 +4728,7 @@
             "owner": "snimavat",
             "desc": "Recaptcha support for Spring security",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4752,7 +4752,7 @@
             "owner": "ctoestreich",
             "desc": "Grails Redis plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4802,7 +4802,7 @@
             "owner": "neilab",
             "desc": "Remora is a Grails Image / File Upload Plugin formally based on Selfie plugin. Use Remora to attach files to your domain models, upload to a CDN, validate content, produce thumbnails.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4826,7 +4826,7 @@
             "owner": "amitjain",
             "desc": "Grails remote-pagination plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4850,7 +4850,7 @@
             "owner": "vahid",
             "desc": "Grails RemoteSSH Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4874,7 +4874,7 @@
             "owner": "grails",
             "desc": "Grails rendering plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4898,7 +4898,7 @@
             "owner": "nobeans",
             "desc": "Grails request-tracelog plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4922,7 +4922,7 @@
             "owner": "troutbird",
             "desc": null,
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4946,7 +4946,7 @@
             "owner": "bertramlabs",
             "desc": "Adds retina resolution image tag support for asset-pipeline.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5023,7 +5023,7 @@
             "owner": "grails",
             "desc": "A plugin that integrates Grails with RxJava",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5047,7 +5047,7 @@
             "owner": "grails",
             "desc": "A plugin that integrates Grails with RxJava",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5071,7 +5071,7 @@
             "owner": "sachinverma",
             "desc": "Grails csv plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5095,7 +5095,7 @@
             "owner": "bertramlabs",
             "desc": "Provides fast and easy .sass and .scss file support for Transpiling to CSS. This plugin takes advantage of jsass and libsass for maximum performance.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5119,7 +5119,7 @@
             "owner": "grails",
             "desc": "Grails scaffolding plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5143,7 +5143,7 @@
             "owner": "agileorbit",
             "desc": "Quartz integration",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5194,7 +5194,7 @@
             "owner": "bertramlabs",
             "desc": "Defines a standard corss-plugin security bridge implementation for better decoupling of authentication in plugin heavy applications.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5218,7 +5218,7 @@
             "owner": "bertramlabs",
             "desc": "Implements a standard convention for adding seed data to your application..",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5242,7 +5242,7 @@
             "owner": "agorapulse",
             "desc": "Grails Segment plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5266,7 +5266,7 @@
             "owner": "bertramlabs",
             "desc": "Selfie is a Grails Image / File Upload Plugin. Use Selfie to attach files to your domain models, upload to a CDN, validate content, produce thumbnails.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5290,7 +5290,7 @@
             "owner": "agorapulse",
             "desc": "Grails Sentry plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5314,7 +5314,7 @@
             "owner": "nerderg",
             "desc": "This is a simple, by convention, suggestion service to provide suggestions to auto complete controls.\nJust point the auto complete JS URL at suggest/[subject]?term=bla and you get a JSON list of suggestion strings back.\nYou can add suggestion handlers to the service as a closure, or just add a text file named [subject].txt with an itemper line to be searched for matches. The simple search returns a result if an item string contains the term anywhere.\nSee docs for details.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5338,7 +5338,7 @@
             "owner": "mathifonseca",
             "desc": "Grails Slack Integration Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5363,7 +5363,7 @@
             "owner": "danlobo",
             "desc": "Provides Grails domain classes support for soft (or logical) deletes.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "MIT"
@@ -5387,7 +5387,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-acl plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5411,7 +5411,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-appinfo plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5435,7 +5435,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-cas plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5459,7 +5459,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-core plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5483,7 +5483,7 @@
             "owner": "splix",
             "desc": "Grails spring-security-facebook plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5507,7 +5507,7 @@
             "owner": "budjb",
             "desc": "A plugin that allows the use of Spring Security features with JAX-RS resources.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5531,7 +5531,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-kerberos plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5555,7 +5555,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-ldap plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5579,7 +5579,7 @@
             "owner": "grails",
             "desc": "This plugin provides the capability to authenticate via oauth. Depends on grails-spring-security-core. Start v1.2.x as of fork to grails-plugins organization (This includes 1.1.1 which was not fully release previously.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5603,7 +5603,7 @@
             "owner": "matrixcrawler",
             "desc": "This plugin provides the capability to authenticate via oauth. Depends on grails-spring-security-core.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5627,7 +5627,7 @@
             "owner": "matrixcrawler",
             "desc": "This plugin provides the capability to authenticate via facebook-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5651,7 +5651,7 @@
             "owner": "rpalcolea",
             "desc": "This plugin provides the capability to authenticate via Github-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5675,7 +5675,7 @@
             "owner": "matrixcrawler",
             "desc": "This plugin provides the capability to authenticate via g+-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5699,7 +5699,7 @@
             "owner": "grails",
             "desc": "This plugin provides the capability to authenticate via g+-oauth provider. Depends on grails-spring-security-oauth2. v1.2.0 starts after fork to grails-plugins org. Includes unreleased 1.1.1 from other repo.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5723,7 +5723,7 @@
             "owner": "purpleraven",
             "desc": "This plugin provides the capability to authenticate via ok-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5747,7 +5747,7 @@
             "owner": "andreperegrina",
             "desc": "This plugin provides the capability to authenticate via outlook-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5771,7 +5771,7 @@
             "owner": "bluesliverx",
             "desc": "Grails OAuth 2 Provider Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5795,7 +5795,7 @@
             "owner": "purpleraven",
             "desc": "This plugin provides the capability to authenticate via vk-oauth provider. Depends on grails-spring-security-oauth2.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5819,7 +5819,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-rest plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5843,7 +5843,7 @@
             "owner": "grails",
             "desc": "Spring Security REST plugin for Grails - GORM module",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5867,7 +5867,7 @@
             "owner": "grails",
             "desc": "Spring Security REST plugin for Grails - Grails cache module",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5891,7 +5891,7 @@
             "owner": "grails",
             "desc": "Grails plugin to implement token-based, RESTful authentication using Spring Security",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5915,7 +5915,7 @@
             "owner": "grails",
             "desc": "Spring Security REST plugin for Grails - Redis module",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5939,7 +5939,7 @@
             "owner": "jeffwils",
             "desc": "Grails 3 Saml2 Support for Spring Security plugin.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5963,7 +5963,7 @@
             "owner": "valentingoebel",
             "desc": "Grails spring-security-saml plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5987,7 +5987,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-shiro plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6011,7 +6011,7 @@
             "owner": "grails",
             "desc": "Grails spring-security-ui plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6035,7 +6035,7 @@
             "owner": "jeetmp3",
             "desc": "This plugin provides spring-session support in grails application.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6086,7 +6086,7 @@
             "owner": "ajay-kumar",
             "desc": "Grails Swagger Plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6111,7 +6111,7 @@
             "owner": "donald-jackson",
             "desc": "Grails swagger4jaxrs plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6135,7 +6135,7 @@
             "owner": "captivatelabs",
             "desc": "The Grails Timezone Detection Plugin makes use of the jsTimezoneDetect Library in order to make the client/browser's timezone available on the server/JVM.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "MIT"
@@ -6159,7 +6159,7 @@
             "owner": "novadge",
             "desc": "Use Twitter API to read and write twitter data",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6184,7 +6184,7 @@
             "owner": "bertramlabs",
             "desc": null,
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6208,7 +6208,7 @@
             "owner": "mathifonseca",
             "desc": "Provides a friendlier way to update your application or plugin version.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6232,7 +6232,7 @@
             "owner": "9ci",
             "desc": "Grails View tools - Grails plugin to help locate views in the spring mvc context",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6256,7 +6256,7 @@
             "owner": "grails",
             "desc": "Grails views-gradle plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6280,7 +6280,7 @@
             "owner": "grails",
             "desc": "Grails views-json-templates plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6304,7 +6304,7 @@
             "owner": "grails",
             "desc": "Grails views-markup plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6313,7 +6313,7 @@
             "latestVersion": "1.0.0.M2",
             "updated": "2016-10-03T14:41:34.191Z",
             "systemIds": [
-                
+
             ],
             "vcsUrl": "https://github.com/grails3-plugins/views-markup"
         },
@@ -6328,7 +6328,7 @@
             "owner": "rlovtangen",
             "desc": "Grails wkhtmltopdf plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6352,7 +6352,7 @@
             "owner": "vahid",
             "desc": "Grails wschat plugin",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6377,7 +6377,7 @@
             "owner": "mrhaki",
             "desc": "Servlet filter that adds a X-FRAME-OPTIONS response header",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6401,7 +6401,7 @@
             "owner": "rpalcolea",
             "desc": "This plugin uses OWASP ESAPI library to sanitize request parameters. This reduces the risk of dangerous XSS request parameters possibly being rendered on the client.",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
