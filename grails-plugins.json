@@ -1819,7 +1819,7 @@
         "bintrayPackage": {
             "name": "external-config",
             "repo": "plugins",
-            "owner": "grails",
+            "owner": "sbglasius",
             "desc": "Load configs with grails.config.locations like in Grails 2.x",
             "labels": [
 
