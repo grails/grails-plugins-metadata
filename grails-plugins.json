@@ -6434,8 +6434,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/vahidhedayati/grails-payment/issues",
-            "latestVersion": "1.0.1",
-            "updated": "2021-06-22T21:50:40.855Z",
+            "latestVersion": "1.0.2",
+            "updated": "2021-07-08T21:50:40.855Z",
             "systemIds": [
                 "io.github.vahidhedayati:payment"
             ],
