@@ -1819,10 +1819,10 @@
         "bintrayPackage": {
             "name": "external-config",
             "repo": "plugins",
-            "owner": "grails",
-            "desc": "\t\r\nLoad configs with grails.config.locations like in Grails 2.x",
+            "owner": "sbglasius",
+            "desc": "Load configs with grails.config.locations like in Grails 2.x",
             "labels": [
-                
+
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1831,7 +1831,7 @@
             "latestVersion": "1.4.0",
             "updated": "2019-07-17T10:39:49.954Z",
             "systemIds": [
-                "org.grails.plugins:external-config"
+                "dk.glasius:external-config"
             ],
             "vcsUrl": "https://github.com/sbglasius/external-config"
         },
@@ -6468,5 +6468,5 @@
         },
         "documentationUrl": null,
         "mavenMetadataUrl": null
-    } 
+    }
 ]
