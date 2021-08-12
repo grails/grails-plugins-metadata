@@ -309,8 +309,8 @@
             ],
             "vcsUrl": "https://github.com/bertramdev/asset-pipeline"
         },
-        "documentationUrl": "https://bertramdev.github.io/asset-pipeline/",
-        "mavenMetadataUrl": null,
+        "documentationUrl": "https://www.asset-pipeline.com/manual/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/bertramlabs/plugins/asset-pipeline-grails/maven-metadata.xml",
         "readme": null
     },
     {
