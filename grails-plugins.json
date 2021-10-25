@@ -3542,8 +3542,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/jms/issues",
-            "latestVersion": "2.0.0.RC2",
-            "updated": "2017-03-23T23:55:24.347Z",
+            "latestVersion": "3.0.0",
+            "updated": "2021-09-07T09:30:00.000Z",
             "systemIds": [
                 "org.grails.plugins:jms"
             ],
@@ -3551,7 +3551,7 @@
         },
         "documentationUrl": "https://gpc.github.io/jms/",
         "mavenMetadataUrl": null,
-        "readme": "<p><a href=\"https://travis-ci.org/gpc/jms\"><img src=\"https://travis-ci.org/gpc/jms.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<h1>JMS for Grails</h1>\n<p>JMS integration for Grails. See <a href=\"http://gpc.github.io/jms/latest/\">documentation</a> for more information.</p>\n"
+        "readme": "JMS integration for Grails. See <a href=\"http://gpc.github.io/jms/latest/\">documentation</a> for more information."
     },
     {
         "bintrayPackage": {
