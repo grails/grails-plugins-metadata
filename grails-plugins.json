@@ -6494,5 +6494,28 @@
         }
         "documentationUrl": "https://daraii.github.io/grails-jasper/",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/jellycat/plugins/jasper/maven-metadata.xml",
+    },
+    {
+        "bintrayPackage": {
+            "name": "moceanapi-grails-sms",
+            "repo": "plugins",
+            "owner": "moceanapi",
+            "desc": "This plugin allows helps you to incorporate SMS notification into your workflow.",
+            "labels": [
+                "grails3"
+            ],
+            "licenses": [
+                "Apache-2.0"
+            ],
+            "issueTrackerUrl": "https://github.com/MoceanAPI/mocean-grails-sms/issues",
+            "latestVersion": "1.0.0",
+            "updated": "2021-03-25T04:00:40.855Z",
+            "systemIds": [
+                "com.github.moceanapi:mocean-grails-sms"
+            ],
+            "vcsUrl": "https://github.com/MoceanAPI/mocean-grails-sms"
+        },
+        "documentationUrl": "hhttps://github.com/MoceanAPI/mocean-grails-sms",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/moceanapi/mocean-grails-sms/maven-metadata.xml"
     } 
 ]
