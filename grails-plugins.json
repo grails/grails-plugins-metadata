@@ -6468,5 +6468,31 @@
         },
         "documentationUrl": null,
         "mavenMetadataUrl": null
-    }
+    },
+    {
+        "bintrayPackage": {
+            "name": "grails-jasper",
+            "repo": "plugins",
+            "owner": "daraii",
+            "desc": "This plugin is a port of the original JasperReports plugin later updated for Grails 3 to the newest JasperReports API, and based of Grails 5, that adds easy support for launching JasperReports reports from GSP pages.",
+            "labels": [
+                    "grails5",
+                    "spring-boot",
+                    "jasper",
+                    "reports"
+            ],
+            "licenses": [
+                    "Apache-2.0"
+            ],
+            "issueTrackerUrl": "https://github.com/daraii/grails-jasper/issues",
+            "latestVersion": "2.2.0",
+            "updated": "2022-09-02T02:49:13.275Z",
+            "systemIds": [
+                    "io.jellycat.plugins:jasper"
+            ],
+            "vcsUrl": "https://github.com/daraii/grails-jasper/"
+        }
+        "documentationUrl": "https://daraii.github.io/grails-jasper/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/jellycat/plugins/jasper/maven-metadata.xml",
+    } 
 ]
