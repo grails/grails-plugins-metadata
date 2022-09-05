@@ -6491,7 +6491,7 @@
                     "io.jellycat.plugins:jasper"
             ],
             "vcsUrl": "https://github.com/daraii/grails-jasper/"
-        }
+        },
         "documentationUrl": "https://daraii.github.io/grails-jasper/",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/jellycat/plugins/jasper/maven-metadata.xml",
     },
@@ -6517,5 +6517,30 @@
         },
         "documentationUrl": "hhttps://github.com/MoceanAPI/mocean-grails-sms",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/moceanapi/mocean-grails-sms/maven-metadata.xml"
-    } 
+    }, 
+    {
+        "bintrayPackage": {
+            "name": "Grailszk",
+            "repo": "grailszk",
+            "owner": "groovyzk",
+            "desc": "Provides integration with Java ZK framework.",
+            "labels": [
+                "zk",
+                "zk-grails",
+                "framework"
+            ],
+            "licenses": [
+                "LGPL-3.0"
+            ],
+            "issueTrackerUrl": "https://github.com/groovyzk/grailszk/issues",
+            "latestVersion": "3.0.0",
+            "updated": "2021-11-11T23:30:40.855Z",
+            "systemIds": [
+                "io.github.zkgroovy:grailszk"
+            ],
+            "vcsUrl": "https://github.com/groovyzk/grailszk"
+        },
+        "documentationUrl": "https://github.com/groovyzk/grailszk#readme",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/zkgroovy/grailszk/maven-metadata.xml"
+    }
 ]
