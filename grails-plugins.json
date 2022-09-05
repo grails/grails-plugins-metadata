@@ -6493,7 +6493,7 @@
             "vcsUrl": "https://github.com/daraii/grails-jasper/"
         },
         "documentationUrl": "https://daraii.github.io/grails-jasper/",
-        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/jellycat/plugins/jasper/maven-metadata.xml",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/jellycat/plugins/jasper/maven-metadata.xml"
     },
     {
         "bintrayPackage": {
@@ -6515,7 +6515,7 @@
             ],
             "vcsUrl": "https://github.com/MoceanAPI/mocean-grails-sms"
         },
-        "documentationUrl": "hhttps://github.com/MoceanAPI/mocean-grails-sms",
+        "documentationUrl": "https://github.com/MoceanAPI/mocean-grails-sms",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/moceanapi/mocean-grails-sms/maven-metadata.xml"
     }, 
     {
