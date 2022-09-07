@@ -6009,24 +6009,24 @@
             "name": "spring-security-ui",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Grails spring-security-ui plugin",
+            "desc": "Grails Spring Security UI",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-spring-security-ui/issues",
-            "latestVersion": "4.0.0.M1",
-            "updated": "2019-04-10T02:49:35.256Z",
+            "issueTrackerUrl": "https://github.com/grails/grails-spring-security-ui/issues",
+            "latestVersion": "4.0.0-RC1",
+            "updated": "2022-09-07T00:00:00.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-ui"
             ],
             "vcsUrl": "https://github.com/grails-plugins/grails-spring-security-ui"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-spring-security-ui/",
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Grails Spring Security UI</h1>\n<p><a href=\"https://grails-plugins.github.io/grails-spring-security-ui/\">Documentation</a></p>\n"
+        "documentationUrl": "https://grails.github.io/grails-spring-security-ui/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/spring-security-ui/maven-metadata.xml",
+        "readme": "<h1>Grails Spring Security UI</h1>\n<p><a href=\"https://grails.github.io/grails-spring-security-ui/\">Documentation</a></p>\n"
     },
     {
         "bintrayPackage": {
