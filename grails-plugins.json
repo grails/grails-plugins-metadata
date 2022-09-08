@@ -1822,7 +1822,7 @@
             "owner": "sbglasius",
             "desc": "Load configs with grails.config.locations like in Grails 2.x",
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -6452,17 +6452,17 @@
             "owner": "ZenHarbinger",
             "desc": "Integration with Jasypt, allows easy encryption of information including Hibernate/GORM integration",
             "labels": [
-                    "grails4",
-                    "encryption"
+                "grails4",
+                "encryption"
             ],
             "licenses": [
-                    "Apache-2.0"
+                "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/ZenHarbinger/grails-jasypt/issues",
             "latestVersion": "4.0.4",
             "updated": "2021-06-21T21:24:00.000Z",
             "systemIds": [
-                    "org.tros:jasypt-encryption"
+                "org.tros:jasypt-encryption"
             ],
             "vcsUrl": "https://github.com/puneetbehl/myplugin"
         },
@@ -6476,19 +6476,19 @@
             "owner": "daraii",
             "desc": "This plugin is a port of the original JasperReports plugin later updated for Grails 3 to the newest JasperReports API, and based of Grails 5, that adds easy support for launching JasperReports reports from GSP pages.",
             "labels": [
-                    "grails5",
-                    "spring-boot",
-                    "jasper",
-                    "reports"
+                "grails5",
+                "spring-boot",
+                "jasper",
+                "reports"
             ],
             "licenses": [
-                    "Apache-2.0"
+                "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/daraii/grails-jasper/issues",
-            "latestVersion": "2.2.0",
+            "latestVersion": "2.2.1",
             "updated": "2022-09-02T02:49:13.275Z",
             "systemIds": [
-                    "io.jellycat.plugins:jasper"
+                "io.jellycat.plugins:jasper"
             ],
             "vcsUrl": "https://github.com/daraii/grails-jasper/"
         },
@@ -6508,7 +6508,7 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/MoceanAPI/mocean-grails-sms/issues",
-            "latestVersion": "1.0.0",
+            "latestVersion": "1.0.1",
             "updated": "2021-03-25T04:00:40.855Z",
             "systemIds": [
                 "com.github.moceanapi:mocean-grails-sms"
@@ -6517,7 +6517,7 @@
         },
         "documentationUrl": "https://github.com/MoceanAPI/mocean-grails-sms",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/moceanapi/mocean-grails-sms/maven-metadata.xml"
-    }, 
+    },
     {
         "bintrayPackage": {
             "name": "Grailszk",
@@ -6533,7 +6533,7 @@
                 "LGPL-3.0"
             ],
             "issueTrackerUrl": "https://github.com/groovyzk/grailszk/issues",
-            "latestVersion": "3.0.0",
+            "latestVersion": "4.2.0",
             "updated": "2021-11-11T23:30:40.855Z",
             "systemIds": [
                 "io.github.zkgroovy:grailszk"
