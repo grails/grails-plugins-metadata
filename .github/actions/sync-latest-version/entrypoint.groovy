@@ -6,6 +6,7 @@ import groovy.xml.XmlSlurper
 import groovy.xml.slurpersupport.GPathResult
 import groovy.xml.slurpersupport.NodeChild
 import groovy.xml.slurpersupport.NodeChildren
+import java.text.*
 
 @CompileStatic
 public class SyncLatestVersion {
@@ -23,6 +24,7 @@ public class SyncLatestVersion {
                                         final String latestVersionFromFile = plugin['bintrayPackage']['latestVersion']
                                         if (latest.versionText && latest.versionText != latestVersionFromFile) {
                                             plugin['bintrayPackage']['latestVersion'] = latest.versionText
+                                            plugin['bintrayPackage']['updated'] = latest.updated
                                         }
                                     })
                         }
@@ -41,10 +43,22 @@ public class SyncLatestVersion {
         final NodeChildren versions = metadata.versioning.versions.version
         final List<SoftwareVersion> versionList = []
         versions.forEach { NodeChild version -> versionList.add(SoftwareVersion.build(version.text())) }
-        versionList.stream()
+        Optional<SoftwareVersion> version = versionList.stream()
                 .filter(version -> version && !version.isSnapshot())
                 .sorted((v1, v2) -> { v2 <=> v1 })
                 .findFirst()
+        version.ifPresent(latest -> { latest.updated = updated(metadata.versioning.lastUpdated.text()) })
+        version
+    }
+
+    String updated(String inputDate) {
+        if (inputDate) {
+            final DateFormat xmlInputFormat = new SimpleDateFormat("YYYYMMddHHmmss")
+            final Date date = xmlInputFormat.parse(inputDate)
+            final DateFormat utcFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'")
+            utcFormat.setTimeZone(TimeZone.getTimeZone("UTC"))
+            utcFormat.format(date)
+        }
     }
 }
 
@@ -58,6 +72,7 @@ class SoftwareVersion implements Comparable<SoftwareVersion> {
     Snapshot snapshot
 
     String versionText
+    String updated
 
     static SoftwareVersion build(String version) {
         String[] parts = version.split("\\.")
