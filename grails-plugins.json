@@ -1609,16 +1609,16 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails-plugins/grails-embedded-mongodb/issues",
-            "latestVersion": "2.0.0.M1",
-            "updated": "2020-09-22T20:22:27.014Z",
+            "latestVersion": "2.0.0",
+            "updated": "2020-06-15T00:00:00.000Z",
             "systemIds": [
                 "org.grails.plugins:embedded-mongodb"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-embedded-mongodb"
+            "vcsUrl": "https://github.com/grails/grails-embedded-mongodb"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-embedded-mongodb/",
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Embedded MongoDB Grails Plugin</h1>\n<p><a href=\"https://travis-ci.org/grails-plugins/grails-embedded-mongodb\"><img src=\"https://travis-ci.org/grails-plugins/grails-embedded-mongodb.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<p>A plugin for running integration tests against an embedded mongo database using <a href=\"https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo\">Flapdoodle Embedded Mongo</a>.</p>\n<h2>Documentation</h2>\n<p>http://grails-plugins.github.io/grails-embedded-mongodb/latest</p>\n"
+        "documentationUrl": "https://grails.github.io/grails-embedded-mongodb/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/embedded-mongodb/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
