@@ -5464,17 +5464,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-spring-security-core/issues",
-            "latestVersion": "4.0.3",
-            "updated": "2020-10-16T18:48:44.326Z",
+            "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
+            "latestVersion": "5.1.0",
+            "updated": "2022-07-06T00:00:00.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-spring-security-core"
+            "vcsUrl": "https://github.com/grails/grails-spring-security-core"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-spring-security-core/",
-        "mavenMetadataUrl": null,
-        "readme": "<p><a href=\"https://travis-ci.org/grails-plugins/grails-spring-security-core\"><img src=\"https://travis-ci.org/grails-plugins/grails-spring-security-core.svg\" alt=\"Build Status\" /></a></p>\n<h1>Grails Spring Security Core Plugin</h1>\n<p>See <a href=\"https://grails-plugins.github.io/grails-spring-security-core/\">documentation</a> for further information.</p>\n<h3>Branch structure</h3>\n<ul>\n<li><code>master</code> compatible with Grails 4.x</li>\n<li><code>3.3.x</code> compatible with Grails 3.3.x</li>\n<li><code>3.2.x</code> compatible with Grails 3.2.x</li>\n</ul>\n"
+        "documentationUrl": "https://grails.github.io/grails-spring-security-core/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/spring-security-core/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
