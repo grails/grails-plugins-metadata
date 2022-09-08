@@ -1585,8 +1585,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/elasticsearch-grails-plugin/issues",
-            "latestVersion": "3.0.0.M1",
-            "updated": "2020-11-27T21:21:31.550Z",
+            "latestVersion": "3.0.0",
+            "updated": "2021-12-26T10:51:16.000Z",
             "systemIds": [
                 "org.grails.plugins:elasticsearch"
             ],
