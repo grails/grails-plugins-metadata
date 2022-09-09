@@ -1990,24 +1990,24 @@
             "name": "geb",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Grails geb plugin",
+            "desc": "Geb Functional Testing for Grails® framework",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails3-plugins/geb/issues",
+            "issueTrackerUrl": "https://github.com/grails/geb/issues",
             "latestVersion": "2.0.0.RC1",
             "updated": "2019-02-19T11:37:18.100Z",
             "systemIds": [
                 "org.grails.plugins:geb"
             ],
-            "vcsUrl": "https://github.com/grails3-plugins/geb"
+            "vcsUrl": "https://github.com/grails/geb"
         },
         "documentationUrl": null,
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Grails 3.x Geb Plugin</h1>\n<p><a href=\"https://travis-ci.org/grails3-plugins/geb\"><img src=\"https://travis-ci.org/grails3-plugins/geb.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<p>Geb Functional Testing for Grails 3.0</p>\n<p>This plugin just provides the Geb dependencies and a <code>create-functional-test</code> command for generating Geb tests in a Grails 3.0 app. For further reference please see the <a href=\"http://www.gebish.org\">Geb documentation</a></p>\n<p>##\ufffd\ufffd Examples</p>\n<p>If you are looking for examples check:</p>\n<p><a href=\"https://github.com/grails-samples/geb-example-grails\">Geb/Grails example project</a></p>\n<p>or <a href=\"https://github.com/grails/grails3-functional-tests\">Grails 3.x functional test suite</a> where Geb tests are used extensively.</p>\n<h1>Additional Drivers</h1>\n<p>To setup additional drivers you need to add the driver to your <code>build.gradle</code> for example:</p>\n<pre><code>testRuntime 'com.github.detro:phantomjsdriver:1.2.0'\n</code></pre>\n<p>Then you need to create a <code>GebConfig.groovy</code> file to your <code>src/test/resources/</code> directory. For example:</p>\n<pre><code>/*\n\tThis is the Geb configuration file.\n\n\tSee: http://www.gebish.org/manual/current/#configuration\n*/\nimport org.openqa.selenium.chrome.ChromeDriver\nimport org.openqa.selenium.firefox.FirefoxDriver\nimport org.openqa.selenium.phantomjs.PhantomJSDriver\n\nwaiting {\ntimeout = 2\n}\ndriver = { new PhantomJSDriver() }\n</code></pre>\n"
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/geb/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
