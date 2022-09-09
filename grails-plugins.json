@@ -5117,24 +5117,24 @@
             "name": "scaffolding",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Grails scaffolding plugin",
+            "desc": "The Grails® framework Scaffolding plugin replicates much of the functionality from Grails 2, but uses the fields plugin instead.",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails3-plugins/scaffolding/issues",
+            "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
             "latestVersion": "4.0.0.RC1",
             "updated": "2019-02-19T15:52:44.438Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
-            "vcsUrl": "https://github.com/grails3-plugins/scaffolding"
+            "vcsUrl": "https://github.com/grails/scaffolding"
         },
         "documentationUrl": null,
-        "mavenMetadataUrl": null,
-        "readme": "<p><a href=\"https://travis-ci.org/grails3-plugins/scaffolding\"><img src=\"https://travis-ci.org/grails3-plugins/scaffolding.svg\" alt=\"Build Status\" /></a></p>\n<h1>Grails Scaffolding</h1>\n<p>Scaffolding plugin for Grails 3. Replicates much of the functionality from Grails 2, but uses the fields plugin instead.</p>\n<p>The 3.2.x releases are for Grails versions before 3.2.7</p>\n<p>The 3.3.x releases are for Grails version 3.2.7 and later</p>\n<p>THe 3.4.x releases require GORM 6.1 and Grails version 3.2.7</p>\n"
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/scaffolding/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
