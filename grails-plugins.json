@@ -5433,24 +5433,24 @@
             "name": "spring-security-cas",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Grails spring-security-cas plugin",
+            "desc": "The CAS plugin adds CAS single sign-on support to a Grails application that uses Spring Security. It depends on the Spring Security Core plugin.",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-spring-security-cas/issues",
+            "issueTrackerUrl": "https://github.com/grails/grails-spring-security-cas/issues",
             "latestVersion": "3.1.0",
             "updated": "2017-10-03T11:18:26.828Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-cas"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-spring-security-cas"
+            "vcsUrl": "https://github.com/grails/grails-spring-security-cas"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-spring-security-cas/",
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Grails Spring Security CAS Plugin</h1>\n<p>See <a href=\"https://grails-plugins.github.io/grails-spring-security-cas/\">documentation</a> for further information.</p>\n"
+        "documentationUrl": "https://grails.github.io/grails-spring-security-cas/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/spring-security-cas/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
