@@ -5577,24 +5577,24 @@
             "name": "spring-security-oauth2",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "This plugin provides the capability to authenticate via oauth. Depends on grails-spring-security-core. Start v1.2.x as of fork to grails-plugins organization (This includes 1.1.1 which was not fully release previously.",
+            "desc": "This plugin provides the capability to authenticate via OAuth 2. Depends on Grails spring-security-core.",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-spring-security-oauth2/issues",
+            "issueTrackerUrl": "https://github.com/grails/grails-spring-security-oauth2/issues",
             "latestVersion": "1.2.0",
             "updated": "2018-05-08T18:38:57.737Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-oauth2"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-spring-security-oauth2"
+            "vcsUrl": "https://github.com/grails/grails-spring-security-oauth2"
         },
-        "documentationUrl": null,
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Spring Security OAuth2 Plugin</h1>\n<p><a href=\"https://travis-ci.org/grails-plugins/grails-spring-security-oauth2\"><img src=\"https://travis-ci.org/grails-plugins/grails-spring-security-oauth2.svg?branch=master\" alt=\"Build Status\" /></a> <a href=\"https://bintray.com/grails/plugins/spring-security-oauth2/_latestVersion\"><img src=\"https://api.bintray.com/packages/grails/plugins/spring-security-oauth2/images/download.svg\" alt=\"Download\" /></a></p>\n<p>Main differences with the Grails 2 plugin:</p>\n<ul>\n<li>no more dependency on https://github.com/antony/grails-oauth-scribe but some code of that plugin was ported in this</li>\n<li>Relies on <a href=\"https://github.com/scribejava/scribejava\">Scribejava</a> to do most of the OAuth logic</li>\n<li>simplest code as possible</li>\n<li>easy to extend</li>\n</ul>\n<h2>Installation</h2>\n<p>Use <a href=\"https://github.com/grails-plugins/grails-spring-security-oauth2-google/releases/tag/v1.2.0\">v1.2.x</a> for Grails 3.0 to 3.2</p>\n<p>Use v1.3.x for Grails 3.3+.</p>\n<p>Add the following dependencies in <code>build.gradle</code></p>\n<pre><code>dependencies {\n...\n    compile 'org.grails.plugins:spring-security:3.2.+'\n    compile 'org.grails.plugins:spring-security-oauth2:1.2.0'\n...\n}\n</code></pre>\n<p>You will also need at least one provider extension, i.e the <code>grails-spring-security-oauth2-google</code> plugin\nChange the version to reflect the actual version you would like to use.</p>\n<p>You can configure the following parameters in your <code>application.yml</code>. This is fully optional</p>\n<pre><code>grails:\n    plugin:\n        springsecurity:\n            oauth2:\n                active: true    #whether the whole plugin is active or not\n                registration:\n                    askToLinkOrCreateAccountUri: '/oauth2/ask' # The URI that is called to aks the user to either create a new account or link to an existing account\n                    roleNames: ['ROLE_USER'] #A list of role names that should be automatically granted to an OAuth User. The roles will be created if they do not exist\n</code></pre>\n<p>Once you have an User domain class, initialize this plugin by using the init script <code>grails init-oauth2 &lt;domain-class-package&gt; &lt;user-class-name&gt; &lt;oauthid-class-name&gt;</code>\nIn example: <code>grails init-oauth2 com.yourapp User OAuthID</code>\nThat will create the domain class <code>com.yourapp.oAuthID</code></p>\n<p>Finally add:</p>\n<pre><code class=\"language-groovy\">static hasMany = [oAuthIDs: OAuthID]\n</code></pre>\n<p>to your user domain class.</p>\n<h2>Extensions</h2>\n<p>List of known extension</p>\n<ul>\n<li><a href=\"https://github.com/grails-plugins/grails-spring-security-oauth2-google\">Google</a></li>\n<li><a href=\"https://github.com/MatrixCrawler/grails-spring-security-oauth2-facebook\">Facebook</a></li>\n<li>[Github] (https://github.com/rpalcolea/grails-spring-security-oauth2-github)</li>\n</ul>\n<h2>How to create a new provider plugin</h2>\n<ol>\n<li>Create a new plugin with <code>grails create-plugin spring-security-oauth2-myProvider</code></li>\n<li>Add the following plugins as dependency in <code>build.gradle</code>:\n<ul>\n<li><code>provided 'org.grails.plugins:spring-security-core:3.+'</code></li>\n<li><code>provided 'org.grails.plugins:spring-security-oauth2:1.1.+'</code></li>\n</ul>\n</li>\n<li>Create a service in your plugin that extends <code>OAuth2AbstractProviderService</code> and implement the abstract methods. You can override the other methods for fine-tuning if needed.</li>\n</ol>\n<h2>License</h2>\n<p>Apache 2</p>\n"
+        "documentationUrl": "https://grails.github.io/grails-spring-security-oauth2/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/spring-security-oauth2/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
