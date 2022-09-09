@@ -794,8 +794,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-cache/issues",
-            "latestVersion": "5.0.0",
-            "updated": "2021-01-30T10:10:35.774Z",
+            "latestVersion": "5.0.1",
+            "updated": "2021-12-26T12:41:20.000Z",
             "systemIds": [
                 "org.grails.plugins:cache"
             ],
@@ -1990,7 +1990,7 @@
             "name": "geb",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Geb Functional Testing for Grails® framework",
+            "desc": "Geb Functional Testing for Grails\u00ae framework",
             "labels": [
                 
             ],
@@ -1998,8 +1998,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/geb/issues",
-            "latestVersion": "2.0.0.RC1",
-            "updated": "2019-02-19T11:37:18.100Z",
+            "latestVersion": "3.0.0",
+            "updated": "2021-12-26T05:47:41.000Z",
             "systemIds": [
                 "org.grails.plugins:geb"
             ],
@@ -5117,7 +5117,7 @@
             "name": "scaffolding",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "The Grails® framework Scaffolding plugin replicates much of the functionality from Grails 2, but uses the fields plugin instead.",
+            "desc": "The Grails\u00ae framework Scaffolding plugin replicates much of the functionality from Grails 2, but uses the fields plugin instead.",
             "labels": [
                 
             ],
@@ -5125,8 +5125,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
-            "latestVersion": "4.0.0.RC1",
-            "updated": "2019-02-19T15:52:44.438Z",
+            "latestVersion": "4.1.0",
+            "updated": "2021-12-26T19:24:37.000Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
