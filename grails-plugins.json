@@ -786,24 +786,24 @@
             "name": "cache",
             "repo": "plugins",
             "owner": "grails",
-            "desc": "Grails cache plugin",
+            "desc": "Grails Cache Plugin",
             "labels": [
                 
             ],
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-cache/issues",
+            "issueTrackerUrl": "https://github.com/grails/grails-cache/issues",
             "latestVersion": "5.0.0",
             "updated": "2021-01-30T10:10:35.774Z",
             "systemIds": [
                 "org.grails.plugins:cache"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-cache"
+            "vcsUrl": "https://github.com/grails/grails-cache"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-cache/",
-        "mavenMetadataUrl": null,
-        "readme": "<p><a href=\"https://github.com/grails-plugins/grails-cache/actions?query=workflow%3A%22Java+CI%22\"><img src=\"https://github.com/grails-plugins/grails-cache/workflows/Java%20CI/badge.svg\" alt=\"Java CI\" /></a></p>\n<h1>Grails Cache Plugin</h1>\n<p>See <a href=\"http://grails-plugins.github.io/grails-cache/\">documentation</a> for further information.</p>\n<h2>Branches</h2>\n<p>The current master branch is for 4.x versions of the plugin. There is a 3.x branch for ongoing maintenance of 3.x versions of the plugin.  There is also a 1.x branch for on-going maintenance of 1.x versions of the plugin compatible with Grails 2. Please submit any pull requests to the appropriate branch. Changes to the 1.x branch will be merged into branches for more recent versions if appropriate.</p>\n"
+        "documentationUrl": "https://grails.github.io/grails-cache/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/cache/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
