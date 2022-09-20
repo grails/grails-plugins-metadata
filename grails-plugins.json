@@ -6533,8 +6533,8 @@
                 "LGPL-3.0"
             ],
             "issueTrackerUrl": "https://github.com/groovyzk/grailszk/issues",
-            "latestVersion": "4.2.0",
-            "updated": "2021-11-11T23:30:40.855Z",
+            "latestVersion": "4.2.1",
+            "updated": "2021-12-26T13:25:43.000Z",
             "systemIds": [
                 "io.github.zkgroovy:grailszk"
             ],
