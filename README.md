@@ -31,9 +31,9 @@ When you publish a new plugin or release an existing plugin, you must send a pul
                 "io.github.puneetbehl:myplugin"
         ],
         "vcsUrl": "https://github.com/puneetbehl/myplugin"
-    }
+    },
     "documentationUrl": "https://puneetbehl.github.io/myplugin/",
-    "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/puneetbehl/myplugin/maven-metadata.xml",
+    "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/puneetbehl/myplugin/maven-metadata.xml"
 } 
 ```
 2. If you publish a new version to Maven Central, locate the entry in the JSON file and updatelatestVersion and mavenMetadataUrl. This will reflect the latest version in the plugin portal. In the future, we will use the mavenMetadataUrl field to automatically update the latest version.
