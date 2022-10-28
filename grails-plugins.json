@@ -386,33 +386,28 @@
         "readme": "<div id=\"preamble\">\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>This project contains APIs and libraries that integrate Grails with various asynchronous libraries and frameworks such as GPars and RxJava.</p>\n</div>\n</div>\n</div>\n<div class=\"sect1\">\n<h2 id=\"_documentation\">Documentation</h2>\n<div class=\"sectionbody\">\n<div class=\"ulist\">\n<ul>\n<li>\n<p>Latest - <a href=\"http://async.grails.org\" class=\"bare\">http://async.grails.org</a></p>\n</li>\n<li>\n<p>Latest - <a href=\"http://async.grails.org/latest/api\" class=\"bare\">http://async.grails.org/latest/api</a></p>\n</li>\n<li>\n<p>Snapshot Guide - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n<li>\n<p>Snapshot API - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n</ul>\n</div>\n</div>\n</div>"
     },
     {
-        "bintrayPackage": {
-            "name": "asynchronous-mail",
-            "repo": "plugins",
-            "owner": "matrei",
-            "desc": "The plugin realises asynchronous mail sending. It stores messages in a DB and sends them asynchronously by a quartz job.",
-            "labels": [
-                "asynchronous",
-                "grails",
-                "hibernate",
-                "mail",
-                "mongodb",
-                "quartz"
-            ],
-            "licenses": [
-                "Apache-2.0"
-            ],
-            "issueTrackerUrl": "https://github.com/gpc/grails-asynchronous-mail/issues",
-            "latestVersion": "3.1.0",
-            "updated": "2022-01-17T12:29:42.481Z",
-            "systemIds": [
-                "io.github.gpc:asynchronous-mail"
-            ],
-            "vcsUrl": "https://github.com/gpc/grails-asynchronous-mail.git"
-        },
-        "documentationUrl": "https://github.com/gpc/grails-asynchronous-mail",
-        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/gpc/asynchronous-mail/maven-metadata.xml",
-        "readme": "<p><a href=\"https://github.com/gpc/grails-asynchronous-mail\">See the README</a> on GitHub</p>"
+      "bintrayPackage": {
+        "name": "asynchronous-mail",
+        "repo": "grails-asynchronous-mail",
+        "owner": "gpc",
+        "desc": "The plugin realises asynchronous mail sending. It stores messages in a DB and sends them asynchronously by a quartz job.",
+        "labels": [
+          "mail"
+        ],
+        "licenses": [
+          "Apache-2.0"
+        ],
+        "issueTrackerUrl": "https://github.com/gpc/grails-asynchronous-mail/issues",
+        "latestVersion": "3.1.0",
+        "updated": "2022-01-17T12:29:42.481Z",
+        "systemIds": [
+          "io.github.gpc:asynchronous-mail"
+        ],
+        "vcsUrl": "https://github.com/gpc/grails-asynchronous-mail.git"
+      },
+      "documentationUrl": "https://github.com/gpc/grails-asynchronous-mail",
+      "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/gpc/asynchronous-mail/maven-metadata.xml",
+      "readme": "<p><a href=\"https://github.com/gpc/grails-asynchronous-mail\">See the README</a> on GitHub</p>"
     },
     {
         "bintrayPackage": {
