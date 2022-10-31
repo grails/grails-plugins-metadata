@@ -6542,5 +6542,28 @@
         },
         "documentationUrl": "https://github.com/groovyzk/grailszk#readme",
         "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/zkgroovy/grailszk/maven-metadata.xml"
+    },
+    {
+        "bintrayPackage": {
+          "name": "inertia",
+          "repo": "grails-inertia-plugin",
+          "owner": "matrei",
+          "desc": "Grails Adapter for Inertia.js",
+          "labels": [
+              "inertia"
+          ],
+          "licenses": [
+              "Apache-2.0"
+          ],
+          "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
+          "latestVersion": "1.0.1",
+          "updated": "2022-10-20T11:39:44.000Z",
+          "systemIds": [
+            "io.github.matrei:grails-inertia-plugin"
+          ],
+          "vcsUrl": "https://github.com/matrei/grails-inertia-plugin"
+        },
+        "documentationUrl": "https://github.com/matrei/grails-inertia-plugin#readme",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/matrei/grails-inertia-plugin/maven-metadata.xml"
     }
 ]
