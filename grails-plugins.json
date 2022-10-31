@@ -1609,8 +1609,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails-plugins/grails-embedded-mongodb/issues",
-            "latestVersion": "2.0.0",
-            "updated": "2020-06-15T00:00:00.000Z",
+            "latestVersion": "2.0.1",
+            "updated": "2021-12-26T08:53:50.000Z",
             "systemIds": [
                 "org.grails.plugins:embedded-mongodb"
             ],
@@ -6533,8 +6533,8 @@
                 "LGPL-3.0"
             ],
             "issueTrackerUrl": "https://github.com/groovyzk/grailszk/issues",
-            "latestVersion": "4.2.1",
-            "updated": "2021-12-26T13:25:43.000Z",
+            "latestVersion": "4.2.2",
+            "updated": "2021-12-26T18:51:13.000Z",
             "systemIds": [
                 "io.github.zkgroovy:grailszk"
             ],
