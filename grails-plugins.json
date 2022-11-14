@@ -6270,54 +6270,6 @@
     },
     {
         "bintrayPackage": {
-            "name": "views-json-templates",
-            "repo": "plugins",
-            "owner": "grails",
-            "desc": "Grails views-json-templates plugin",
-            "labels": [
-                
-            ],
-            "licenses": [
-                "Apache-2.0"
-            ],
-            "issueTrackerUrl": "https://github.com/grails3-plugins/views-json-templates/issues",
-            "latestVersion": "1.2.10",
-            "updated": "2018-12-19T20:34:43.742Z",
-            "systemIds": [
-                "org.grails.plugins:views-json-templates"
-            ],
-            "vcsUrl": "https://github.com/grails3-plugins/views-json-templates"
-        },
-        "documentationUrl": null,
-        "mavenMetadataUrl": null,
-        "readme": null
-    },
-    {
-        "bintrayPackage": {
-            "name": "views-markup",
-            "repo": "plugins",
-            "owner": "grails",
-            "desc": "Grails views-markup plugin",
-            "labels": [
-                
-            ],
-            "licenses": [
-                "Apache-2.0"
-            ],
-            "issueTrackerUrl": "https://github.com/grails3-plugins/views-markup/issues",
-            "latestVersion": "1.0.0.M2",
-            "updated": "2016-10-03T14:41:34.191Z",
-            "systemIds": [
-                
-            ],
-            "vcsUrl": "https://github.com/grails3-plugins/views-markup"
-        },
-        "documentationUrl": null,
-        "mavenMetadataUrl": null,
-        "readme": null
-    },
-    {
-        "bintrayPackage": {
             "name": "wkhtmltopdf",
             "repo": "plugins",
             "owner": "rlovtangen",
