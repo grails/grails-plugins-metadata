@@ -3545,7 +3545,7 @@
             "vcsUrl": "https://github.com/gpc/jms"
         },
         "documentationUrl": "https://gpc.github.io/jms/",
-        "mavenMetadataUrl": null,
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/gpc/jms/maven-metadata.xml",
         "readme": "JMS integration for Grails. See <a href=\"http://gpc.github.io/jms/latest/\">documentation</a> for more information."
     },
     {
