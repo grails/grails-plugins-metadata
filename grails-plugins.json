@@ -3625,7 +3625,7 @@
             ],
             "issueTrackerUrl": "https://github.com/gpc/jms/issues",
             "latestVersion": "4.0.1",
-            "updated": "2022-11-18T11:23:00.000Z",
+            "updated": "2022-11-18T11:24:51.000Z",
             "systemIds": [
                 "io.github.gpc:jms",
                 "org.grails.plugins:jms"
