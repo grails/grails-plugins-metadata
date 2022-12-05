@@ -3537,8 +3537,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/jms/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2022-11-15T17:30:00.000Z",
+            "latestVersion": "4.0.1",
+            "updated": "2021-12-26T11:24:51.000Z",
             "systemIds": [
                 "org.grails.plugins:jms"
             ],
