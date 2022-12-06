@@ -6127,7 +6127,7 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails3-plugins/spring-security-saml/issues",
+            "issueTrackerUrl": "https://github.com/grails-spring-security-saml/grails-spring-security-saml/issues",
             "latestVersion": "5.0.0-RC3",
             "updated": "2022-07-13T16:45:25.000Z",
             "systemIds": [
