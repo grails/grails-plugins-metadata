@@ -42,7 +42,14 @@ public class SyncLatestVersion {
         final GPathResult metadata = xmlSlurper.parse(mavenMetadataUrl)
         final NodeChildren versions = metadata.versioning.versions.version
         final List<SoftwareVersion> versionList = []
-        versions.forEach { NodeChild version -> versionList.add(SoftwareVersion.build(version.text())) }
+        versions.forEach { NodeChild version ->
+            try {
+                versionList.add(SoftwareVersion.build(version.text()))
+            }
+            catch(NumberFormatException ignore) {
+                println "NumberFormatException caught when parsing version string ${version.text()} for url $mavenMetadataUrl"
+            }
+        }
         Optional<SoftwareVersion> version = versionList.stream()
                 .filter(version -> version && !version.isSnapshot())
                 .sorted((v1, v2) -> { v2 <=> v1 })
