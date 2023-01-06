@@ -60,7 +60,7 @@ public class SyncLatestVersion {
 
     String updated(String inputDate) {
         if (inputDate) {
-            final DateFormat xmlInputFormat = new SimpleDateFormat("YYYYMMddHHmmss")
+            final DateFormat xmlInputFormat = new SimpleDateFormat("yyyyMMddHHmmss")
             final Date date = xmlInputFormat.parse(inputDate)
             final DateFormat utcFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'")
             utcFormat.setTimeZone(TimeZone.getTimeZone("UTC"))
