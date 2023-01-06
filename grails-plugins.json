@@ -261,7 +261,7 @@
             "latestVersion": "1.0",
             "updated": "2016-03-31T16:14:33.462Z",
             "systemIds": [
-
+                
             ],
             "vcsUrl": "https://github.com/anthofo/grails3-json-annotations-marshaller"
         },
@@ -294,7 +294,7 @@
         "readme": "<h1>Application-Config</h1>\n<p><a href=\"https://travis-ci.org/neilabdev/application-config\"><img src=\"https://travis-ci.org/neilabdev/application-config.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<p>This plugin based on the amazing work started in plugin  <a href=\"http://plugins.grails.org/plugin/grails/external-config\">external-config</a> by <a href=\"https://github.com/snimavat\">Sudhir Nimavat</a> and  <a href=\"https://github.com/tkvw\">Dennie de Lange</a>,\nwhich mimiced the Grails 2 way of handling external configurations defined in <code>grails.config.locations</code>; with the necessary additions to allow configurations via command line, system properties, and JNDI.</p>\n<h2>Contributors</h2>\n<ul>\n<li><a href=\"https://github.com/neilabdev\">neilabdev</a></li>\n</ul>\n<h2>Installation</h2>\n<p>Add dependency to your <code>build.gradle</code>:</p>\n<pre><code>dependencies {\n    compile 'com.neilab.plugins:application-config:1.1.3'\n}\n</code></pre>\n<h2>Usage</h2>\n<p>When you add this plugin to your Grails build, it will automatically look for the property <code>grails.config.locations</code>. Define this in in either <code>application.yml</code> like this:</p>\n<pre><code>grails:\n    config:\n        locations:\n            - classpath:myconfig.groovy\n            - classpath:myconfig.yml\n            - classpath:myconfig.properties\n            - file:///etc/app/myconfig.groovy\n            - file:///etc/app/myconfig.yml\n            - file:///etc/app/myconfig.properties\n            - ~/.grails/myconfig.groovy\n            - ~/.grails/myconfig.yml\n            - ~/.grails/myconfig.properties\n            - file:${catalina.base}/myconfig.groovy\n            - file:${catalina.base}/myconfig.yml\n            - file:${catalina.base}/myconfig.properties\n</code></pre>\n<p>or in <code>application.groovy</code> like this:</p>\n<pre><code>grails.config.locations = [\n        &quot;classpath:myconfig.groovy&quot;,\n        &quot;classpath:myconfig.yml&quot;,\n        &quot;classpath:myconfig.properties&quot;,\n        &quot;file:///etc/app/myconfig.groovy&quot;,\n        &quot;file:///etc/app/myconfig.yml&quot;,\n        &quot;file:///etc/app/myconfig.properties&quot;,\n        &quot;~/.grails/myconfig.groovy&quot;,\n        &quot;~/.grails/myconfig.yml&quot;,\n        &quot;~/.grails/myconfig.properties&quot;,\n        'file:${catalina.base}/myconfig.groovy',\n        'file:${catalina.base}/myconfig.yml',\n        'file:${catalina.base}/myconfig.properties',\n]\n</code></pre>\n<p>You may also include external configs using '-D' arguments which match the system properties\nthe application is seeking, preceded by an application prefix determined by <em>info.app.name</em> in your default <em>application.yml</em>, <em>application.groovy</em>  or &quot;app&quot; if none exists. By default the following should work:</p>\n<pre><code>-DappName.config=&quot;/path/to/config&quot;\n-DappName.external.config=&quot;/path/to/config&quot;\n-DappName.database.config=&quot;/path/to/config&quot;\n-DappName.logging.config=&quot;/path/to/config&quot;\n\n</code></pre>\n<p>or using JNDI variables <em>CONFIG</em>, <em>EXTERNAL_CONFIG</em>, <em>LOGGING_CONFIG</em>, <em>DATABASE_CONFIG</em> in tomcat for example:</p>\n<pre><code class=\"language-xml\">&lt;Context path=&quot;&quot; docBase=&quot;/path/to/app.war&quot;  reloadable=&quot;false&quot;&gt;\n        &lt;Environment name=&quot;APP_CONFIG&quot;\n                value=&quot;file:/path/to/external_config.groovy&quot;\n                type=&quot;java.lang.String&quot;/&gt;\n        &lt;Environment name=&quot;DATABASE_CONFIG&quot;\n                value=&quot;file:/path/to/external_config.database.groovy&quot;\n                type=&quot;java.lang.String&quot;/&gt;\n&lt;/Context&gt;\n</code></pre>\n<p>While  no-longer necessary as of version 1.1.0 of <a href=\"http://plugins.grails.org/plugin/grails/external-config\">external-config</a>, which this fork is based, for comparability you  may edit your Grails projects <code>Application.groovy</code> and implement the trait <code>com.neilab.plugins.config.ApplicationConfig</code> (formally ExternalConfig):</p>\n<pre><code>import com.neilab.plugins.config.ApplicationConfig\n\nclass Application extends GrailsAutoConfiguration implements ApplicationConfig {\n    static void main(String[] args) {\n        GrailsApp.run(Application, args)\n    }\n}\n</code></pre>\n<p>This above is necessary only when <em>ApplicationConfigRunListener</em> is not executed, and   personally  have used it only when developing the plugin as an inline plugin where <em>SpringApplicationRunListener</em> was not loaded.</p>\n<h2>Notes</h2>\n<p>Notice, that <code>~/</code> references the users <code>$HOME</code> directory.\nNotice, that using a system property you should use single quotes because otherwise it's interpreted as a Gstring.</p>\n<p>The plugin will skip configuration files that are not found.</p>\n<p>For <code>.groovy</code> and <code>.yml</code> files the <code>environments</code> blocks in the config file are interpreted the same way, as in <code>application.yml</code> or <code>application.groovy</code>.</p>\n<p>Alternatively, you can make a gradle script to move the external configuration file to your classpath (e.g. /build/classes)</p>\n<p><strong>Using IntelliJ or gradle to specify configurations via system properties</strong></p>\n<p>When passing system properties via <em>VM Options</em> in IntelliJ or <em>-D</em> properties in gradle, it may be necessary to assign the parameters to the app via <em>bootRun</em> in your <em>build.gradle</em> configuration.</p>\n<pre><code class=\"language-groovy\">//build.gradle\nbootRun {\n    systemProperties = System.properties\n}\n</code></pre>\n<h2>Scripts</h2>\n<p>This plugin also includes two scripts, one for converting yml config, to groovy config,\nand one for converting groovy config to yml config. These scripts are not guaranteed to be\nperfect, but you should report any edge cases for the yml to groovy config here:\nhttps://github.com/virtualdogbert/GroovyConfigWriter/issues</p>\n<p>Sample usage:</p>\n<pre><code>grails yml-to-groovy-config [ymlFile] [optional outputFile]\ngrails groovy-to-yml-config [ymlFile] [optional outputFile]\n</code></pre>\n"
     },
     {
-        "deprecated":  "This entry in the registry seems to be a duplicate of the entry named 'asset-pipeline-grails'. It should probably be removed from the registry to avoid confusion.",
+        "deprecated": "This entry in the registry seems to be a duplicate of the entry named 'asset-pipeline-grails'. It should probably be removed from the registry to avoid confusion.",
         "bintrayPackage": {
             "name": "asset-pipeline",
             "repo": "plugins",
@@ -331,7 +331,7 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "3.3.1",
+            "latestVersion": "4.0.0",
             "updated": "2022-11-03T15:33:22.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:asset-pipeline-grails"
@@ -405,8 +405,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/grails-asynchronous-mail/issues",
-            "latestVersion": "3.1.0",
-            "updated": "2022-01-17T12:29:42.481Z",
+            "latestVersion": "3.1.1",
+            "updated": "2022-12-15T14:32:06.000Z",
             "systemIds": [
                 "io.github.gpc:asynchronous-mail"
             ],
@@ -491,7 +491,7 @@
             "latestVersion": "2.4.15",
             "updated": "2022-07-20T06:42:00.000Z",
             "systemIds": [
-
+                
             ],
             "vcsUrl": "https://github.com/agorapulse/grails-aws-sdk"
         },
@@ -1130,7 +1130,7 @@
             "owner": "puravida-software",
             "desc": "Consulta el nombre registrado en la AEAT para un NIF dado",
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -1989,7 +1989,7 @@
             "owner": "purpleraven",
             "desc": "Load complex domain data via a simple DSL",
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.36",
-            "updated": "2022-09-29T22:15:38.000Z",
+            "latestVersion": "7.3.27",
+            "updated": "2022-12-12T23:02:11.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -2235,7 +2235,7 @@
     },
     {
         "displayName": "executor",
-        "deprecated":  "Source repository is archived. As per the readme: This plugin is not maintained - use grails-async. This entry in the registry should probably be removed.",
+        "deprecated": "Source repository is archived. As per the readme: This plugin is not maintained - use grails-async. This entry in the registry should probably be removed.",
         "bintrayPackage": {
             "name": "grails-executor",
             "repo": "plugins",
@@ -3177,8 +3177,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-data-mapping/issues",
-            "latestVersion": "7.3.0",
-            "updated": "2022-06-07T17:35:39.000Z",
+            "latestVersion": "7.3.1",
+            "updated": "2022-12-24T04:21:15.000Z",
             "systemIds": [
                 "org.grails.plugins:hibernate5"
             ],
@@ -3677,7 +3677,7 @@
             "latestVersion": "v1.0",
             "updated": "2016-03-31T16:16:47.970Z",
             "systemIds": [
-
+                
             ],
             "vcsUrl": "https://github.com/tony75/grails3-json-annotations-marshaller"
         },
@@ -4124,7 +4124,7 @@
             "latestVersion": null,
             "updated": "2017-11-15T13:54:48.264Z",
             "systemIds": [
-
+                
             ],
             "vcsUrl": "https://github.com/vsachinv/grails-csv"
         },
@@ -4193,7 +4193,7 @@
             "owner": "desirable-objects",
             "desc": "Grails feature-switch plugin",
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -4342,7 +4342,7 @@
             "owner": "cwang",
             "desc": null,
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5205,8 +5205,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "3.2.5",
-            "updated": "2020-07-02T00:58:34.452Z",
+            "latestVersion": "4.0.0",
+            "updated": "2022-11-03T15:33:45.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:sass-asset-pipeline"
             ],
@@ -5330,8 +5330,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/seed-me/issues",
-            "latestVersion": "5.0.4",
-            "updated": "2022-07-07T13:32:00.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2022-12-23T16:08:21.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:seed-me"
             ],
@@ -5421,7 +5421,7 @@
             "owner": "nerderg",
             "desc": "This is a simple, by convention, suggestion service to provide suggestions to auto complete controls.\nJust point the auto complete JS URL at suggest/[subject]?term=bla and you get a JSON list of suggestion strings back.\nYou can add suggestion handlers to the service as a closure, or just add a text file named [subject].txt with an itemper line to be searched for matches. The simple search returns a result if an item string contains the term anywhere.\nSee docs for details.",
             "labels": [
-
+                
             ],
             "licenses": [
                 "Apache-2.0"
@@ -5577,8 +5577,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
-            "latestVersion": "5.1.1",
-            "updated": "2022-11-18T12:38:41.000Z",
+            "latestVersion": "5.2.0",
+            "updated": "2022-12-26T12:24:39.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
@@ -6724,8 +6724,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "1.0.1",
-            "updated": "2022-10-20T11:39:44.000Z",
+            "latestVersion": "1.0.2",
+            "updated": "2022-12-21T15:51:31.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
