@@ -6724,8 +6724,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "1.0.2",
-            "updated": "2022-12-21T15:51:31.000Z",
+            "latestVersion": "1.0.3",
+            "updated": "2023-01-16T14:00:32.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
