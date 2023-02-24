@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.30",
-            "updated": "2023-02-08T19:18:59.000Z",
+            "latestVersion": "7.3.31",
+            "updated": "2023-02-21T17:06:33.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -3722,8 +3722,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.0.7",
-            "updated": "2023-02-07T15:27:40.000Z",
+            "latestVersion": "2.0.9",
+            "updated": "2023-02-23T19:56:13.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -6724,8 +6724,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "1.1.0",
-            "updated": "2023-02-09T08:09:09.000Z",
+            "latestVersion": "1.2.0",
+            "updated": "2023-02-22T11:33:55.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
