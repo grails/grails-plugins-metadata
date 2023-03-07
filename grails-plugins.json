@@ -159,17 +159,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-angular-scaffolding/issues",
+            "issueTrackerUrl": "https://github.com/grails/grails-angular-scaffolding/issues",
             "latestVersion": "2.0.0",
             "updated": "2017-07-03T19:48:13.000Z",
             "systemIds": [
                 "org.grails.plugins:angular-scaffolding"
             ],
-            "vcsUrl": "https://github.com/grails-plugins/grails-angular-scaffolding"
+            "vcsUrl": "https://github.com/grails/grails-angular-scaffolding"
         },
-        "documentationUrl": "https://grails-plugins.github.io/grails-angular-scaffolding/",
-        "mavenMetadataUrl": null,
-        "readme": "<h1>Grails 3 Angular Scaffolding Plugin</h1>\n<p><a href=\"https://travis-ci.org/grails-plugins/grails-angular-scaffolding\"><img src=\"https://travis-ci.org/grails-plugins/grails-angular-scaffolding.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<p>A plugin for generating client side assets based on domain classes</p>\n<h2>Documentation</h2>\n<p>Latest: http://grails-plugins.github.io/grails-angular-scaffolding/latest\nSnapshot: http://grails-plugins.github.io/grails-angular-scaffolding/snapshot</p>\n"
+        "documentationUrl": "https://grails.github.io/grails-angular-scaffolding/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/angular-scaffolding/maven-metadata.xml",
+        "readme": null
     },
     {
         "bintrayPackage": {
