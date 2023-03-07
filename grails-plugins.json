@@ -160,8 +160,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-angular-scaffolding/issues",
-            "latestVersion": "2.0.0",
-            "updated": "2017-07-03T19:48:13.000Z",
+            "latestVersion": "2.0.1",
+            "updated": "2023-03-07T06:34:49.000Z",
             "systemIds": [
                 "org.grails.plugins:angular-scaffolding"
             ],
