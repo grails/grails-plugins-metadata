@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.31",
-            "updated": "2023-02-21T17:06:33.000Z",
+            "latestVersion": "7.3.33",
+            "updated": "2023-03-09T02:51:01.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "5.2.2",
-            "updated": "2023-02-17T10:28:28.000Z",
+            "latestVersion": "5.3.0",
+            "updated": "2023-03-09T10:40:29.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -3399,8 +3399,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/spring-grails-kit",
-            "latestVersion": "5.0.9",
-            "updated": "2023-02-08T01:54:05.000Z",
+            "latestVersion": "5.0.10",
+            "updated": "2023-03-09T02:20:53.000Z",
             "systemIds": [
                 "org.yakworks:grails-jasper",
                 "org.grails.plugins:jasper-reports"
@@ -3722,8 +3722,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.0.9",
-            "updated": "2023-02-23T19:56:13.000Z",
+            "latestVersion": "2.1.0",
+            "updated": "2023-03-10T00:46:34.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
