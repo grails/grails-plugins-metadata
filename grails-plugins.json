@@ -5379,8 +5379,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/selfie/issues",
-            "latestVersion": "2.1.4",
-            "updated": "2021-03-31T01:20:34.000Z",
+            "latestVersion": "2.1.5",
+            "updated": "2023-05-04T15:15:51.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:selfie"
             ],
