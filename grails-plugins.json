@@ -1612,8 +1612,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/elasticsearch-grails-plugin/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2022-07-06T10:51:16.000Z",
+            "latestVersion": "3.0.1",
+            "updated": "2023-06-21T10:07:13.000Z",
             "systemIds": [
                 "org.grails.plugins:elasticsearch"
             ],
@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.50",
-            "updated": "2023-06-08T19:10:11.000Z",
+            "latestVersion": "7.3.51",
+            "updated": "2023-06-21T14:34:33.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
