@@ -5229,8 +5229,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
-            "latestVersion": "4.1.0",
-            "updated": "2022-02-24T19:24:37.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2023-06-30T05:41:30.000Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
