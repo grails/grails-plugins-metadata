@@ -4177,12 +4177,12 @@
             "latestVersion": "2.0.1",
             "updated": "2019-02-16T20:23:37.849Z",
             "systemIds": [
-                "org.grails.plugins:enforcer"
+                "io.github.virtualdogbert:enforcer"
             ],
             "vcsUrl": "https://github.com/virtualdogbert/Enforcer"
         },
         "documentationUrl": "https://virtualdogbert.github.io/Enforcer/",
-        "mavenMetadataUrl": null,
+        "mavenMetadataUrl":  "https://repo1.maven.org/maven2/io/github/virtualdogbert/enforcer/maven-metadata.xml",
         "readme": "<p>The Enforcer Plugin, is a lightweight, easier to maintain/extend/use, alternative to Spring Security ACL. The plugin works off of an EnforcerService and an Enforce Ast transform, The service takes up to 3 closures, a predicate, a failure(defaults to an EnforcerException if not specified) and a success(defaulted to a closure that returns true).</p>\n<p>For documentation see the github page:\n<a href=\"https://virtualdogbert.github.io/Enforcer\">documentation</a></p>\n"
     },
     {
