@@ -2799,8 +2799,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "2.3.2",
-            "updated": "2022-06-17T15:24:07.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-07-22T01:29:47.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json"
             ],
@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "5.3.0",
-            "updated": "2023-03-09T10:40:29.000Z",
+            "latestVersion": "6.0.0",
+            "updated": "2023-07-20T13:36:06.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -3177,8 +3177,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-data-mapping/issues",
-            "latestVersion": "7.3.1",
-            "updated": "2022-12-24T04:21:15.000Z",
+            "latestVersion": "8.0.0",
+            "updated": "2023-07-22T11:50:01.000Z",
             "systemIds": [
                 "org.grails.plugins:hibernate5"
             ],
@@ -3970,8 +3970,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/gorm-mongodb/issues",
-            "latestVersion": "7.3.0",
-            "updated": "2022-06-09T08:52:48.000Z",
+            "latestVersion": "8.0.0",
+            "updated": "2023-07-22T16:10:54.000Z",
             "systemIds": [
                 "org.grails.plugins:mongodb"
             ],
@@ -4046,8 +4046,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/gorm-neo4j/issues",
-            "latestVersion": "7.3.0",
-            "updated": "2022-06-10T19:03:42.000Z",
+            "latestVersion": "8.0.0",
+            "updated": "2023-07-22T16:23:57.000Z",
             "systemIds": [
                 "org.grails.plugins:neo4j"
             ],
@@ -6425,8 +6425,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "2.3.2",
-            "updated": "2022-06-17T15:24:06.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-07-22T01:29:46.000Z",
             "systemIds": [
                 "org.grails.plugins:views-gradle"
             ],
@@ -6450,8 +6450,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "2.3.2",
-            "updated": "2022-06-17T15:24:08.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-07-22T01:29:48.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json-templates"
             ],
@@ -6475,8 +6475,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "2.3.2",
-            "updated": "2022-06-17T15:24:08.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-07-22T01:29:49.000Z",
             "systemIds": [
                 "org.grails.plugins:views-markup"
             ],
