@@ -405,8 +405,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/grails-asynchronous-mail/issues",
-            "latestVersion": "3.1.1",
-            "updated": "2022-12-15T14:32:06.000Z",
+            "latestVersion": "3.1.2",
+            "updated": "2023-07-27T13:26:45.000Z",
             "systemIds": [
                 "io.github.gpc:asynchronous-mail"
             ],
@@ -4174,15 +4174,15 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/virtualdogbert/Enforcer/issues",
-            "latestVersion": "2.0.1",
-            "updated": "2019-02-16T20:23:37.849Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-07-16T17:59:10.000Z",
             "systemIds": [
                 "io.github.virtualdogbert:enforcer"
             ],
             "vcsUrl": "https://github.com/virtualdogbert/Enforcer"
         },
         "documentationUrl": "https://virtualdogbert.github.io/Enforcer/",
-        "mavenMetadataUrl":  "https://repo1.maven.org/maven2/io/github/virtualdogbert/enforcer/maven-metadata.xml",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/virtualdogbert/enforcer/maven-metadata.xml",
         "readme": "<p>The Enforcer Plugin, is a lightweight, easier to maintain/extend/use, alternative to Spring Security ACL. The plugin works off of an EnforcerService and an Enforce Ast transform, The service takes up to 3 closures, a predicate, a failure(defaults to an EnforcerException if not specified) and a success(defaulted to a closure that returns true).</p>\n<p>For documentation see the github page:\n<a href=\"https://virtualdogbert.github.io/Enforcer\">documentation</a></p>\n"
     },
     {
