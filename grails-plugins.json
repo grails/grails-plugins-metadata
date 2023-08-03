@@ -6737,5 +6737,29 @@
       },
       "documentationUrl": "https://github.com/charlieamat/grails-liquid-plugin#readme",
       "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/charlieamat/grails-liquid-plugin/maven-metadata.xml"
+    },
+    {
+      "bintrayPackage": {
+          "name": "Grails Sanitizer",
+          "repo": "grails-sanitizer-plugin",
+          "owner": "carlosmtobon",
+          "desc": "A Grails Plugin for sanitizing markup using the OWASP AntiSamy library.",
+          "labels": [
+              "sanitizer",
+              "antisamy"
+          ],
+          "licenses": [
+              "MIT"
+          ],
+          "issueTrackerUrl": "https://github.com/carlosmtobon/grails-sanitizer-plugin/issues",
+          "latestVersion": "1.0.1",
+          "updated": "2023-07-28T18:46:48.776Z",
+          "systemIds": [
+              "io.github.carlosmtobon:grails-sanitizer-plugin"
+          ],
+          "vcsUrl": "https://github.com/carlosmtobon/grails-sanitizer-plugin"
+      },
+      "documentationUrl": "https://github.com/carlosmtobon/grails-sanitizer-plugin#readme",
+      "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/carlosmtobon/grails-sanitizer-plugin/maven-metadata.xml"
     }
   ]
