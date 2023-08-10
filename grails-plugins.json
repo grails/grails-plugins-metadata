@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.51",
-            "updated": "2023-06-21T14:34:33.000Z",
+            "latestVersion": "7.3.52",
+            "updated": "2023-08-09T23:08:56.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.0.0",
-            "updated": "2023-07-20T13:36:06.000Z",
+            "latestVersion": "6.0.1",
+            "updated": "2023-08-09T11:43:54.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
