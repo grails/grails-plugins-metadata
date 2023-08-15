@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.52",
-            "updated": "2023-08-09T23:08:56.000Z",
+            "latestVersion": "7.3.53",
+            "updated": "2023-08-11T15:51:23.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -5577,8 +5577,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
-            "latestVersion": "5.2.1",
-            "updated": "2023-02-14T16:22:03.000Z",
+            "latestVersion": "5.3.0",
+            "updated": "2023-08-14T20:13:29.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
