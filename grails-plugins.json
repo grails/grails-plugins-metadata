@@ -1340,8 +1340,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-database-migration/issues",
-            "latestVersion": "4.2.0",
-            "updated": "2023-02-15T08:05:51.000Z",
+            "latestVersion": "4.2.1",
+            "updated": "2023-08-31T03:18:31.000Z",
             "systemIds": [
                 "org.grails.plugins:database-migration"
             ],
@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.53",
-            "updated": "2023-08-11T15:51:23.000Z",
+            "latestVersion": "7.3.54",
+            "updated": "2023-09-03T01:21:42.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -6724,8 +6724,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "1.2.1",
-            "updated": "2023-04-13T07:59:19.000Z",
+            "latestVersion": "2.0.0",
+            "updated": "2023-09-06T12:13:26.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
