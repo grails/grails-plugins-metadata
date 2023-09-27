@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.0.2",
-            "updated": "2023-08-25T02:55:30.000Z",
+            "latestVersion": "6.0.3",
+            "updated": "2023-09-27T06:07:36.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -5577,8 +5577,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
-            "latestVersion": "6.0.0",
-            "updated": "2023-08-24T17:56:55.000Z",
+            "latestVersion": "6.0.1",
+            "updated": "2023-09-27T06:49:51.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
