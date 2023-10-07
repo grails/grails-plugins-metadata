@@ -3177,8 +3177,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-data-mapping/issues",
-            "latestVersion": "8.0.0",
-            "updated": "2023-07-22T11:50:01.000Z",
+            "latestVersion": "8.0.1",
+            "updated": "2023-10-06T19:36:40.000Z",
             "systemIds": [
                 "org.grails.plugins:hibernate5"
             ],
