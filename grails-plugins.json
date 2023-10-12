@@ -2146,8 +2146,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.57",
-            "updated": "2023-09-29T01:09:41.000Z",
+            "latestVersion": "7.3.58",
+            "updated": "2023-10-09T22:50:48.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -3970,8 +3970,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/gorm-mongodb/issues",
-            "latestVersion": "8.0.0",
-            "updated": "2023-07-22T16:10:54.000Z",
+            "latestVersion": "8.1.0",
+            "updated": "2023-10-09T05:46:19.000Z",
             "systemIds": [
                 "org.grails.plugins:mongodb"
             ],
@@ -4046,8 +4046,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/gorm-neo4j/issues",
-            "latestVersion": "8.0.0",
-            "updated": "2023-07-22T16:23:57.000Z",
+            "latestVersion": "8.0.1",
+            "updated": "2023-10-09T10:37:01.000Z",
             "systemIds": [
                 "org.grails.plugins:neo4j"
             ],
@@ -5577,8 +5577,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
-            "latestVersion": "6.0.1",
-            "updated": "2023-09-27T06:49:51.000Z",
+            "latestVersion": "6.0.2",
+            "updated": "2023-10-09T05:13:41.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
