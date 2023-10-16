@@ -5229,8 +5229,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
-            "latestVersion": "5.0.0",
-            "updated": "2023-06-30T05:41:30.000Z",
+            "latestVersion": "5.0.1",
+            "updated": "2023-10-12T03:19:36.000Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
@@ -6128,8 +6128,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails-spring-security-saml/grails-spring-security-saml/issues",
-            "latestVersion": "5.0.0-RC3",
-            "updated": "2022-07-13T16:45:25.000Z",
+            "latestVersion": "5.1.0",
+            "updated": "2023-10-16T10:41:32.000Z",
             "systemIds": [
                 "io.github.grails-spring-security-saml:spring-security-saml"
             ],
