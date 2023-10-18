@@ -2799,8 +2799,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2023-07-22T01:29:47.000Z",
+            "latestVersion": "3.1.0",
+            "updated": "2023-10-17T17:23:44.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json"
             ],
@@ -6425,8 +6425,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2023-07-22T01:29:46.000Z",
+            "latestVersion": "3.1.0",
+            "updated": "2023-10-17T17:23:43.000Z",
             "systemIds": [
                 "org.grails.plugins:views-gradle"
             ],
@@ -6450,8 +6450,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2023-07-22T01:29:48.000Z",
+            "latestVersion": "3.1.0",
+            "updated": "2023-10-17T17:23:45.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json-templates"
             ],
@@ -6475,8 +6475,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2023-07-22T01:29:49.000Z",
+            "latestVersion": "3.1.0",
+            "updated": "2023-10-17T17:23:46.000Z",
             "systemIds": [
                 "org.grails.plugins:views-markup"
             ],
