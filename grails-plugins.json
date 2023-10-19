@@ -5577,8 +5577,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-core/issues",
-            "latestVersion": "6.0.2",
-            "updated": "2023-10-09T05:13:41.000Z",
+            "latestVersion": "6.0.3",
+            "updated": "2023-10-18T10:08:23.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-core"
             ],
