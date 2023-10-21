@@ -5707,8 +5707,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-oauth2/issues",
-            "latestVersion": "2.0.0-RC1",
-            "updated": "2022-03-22T07:47:44.000Z",
+            "latestVersion": "2.0.0",
+            "updated": "2023-10-19T12:09:08.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-oauth2"
             ],
