@@ -380,8 +380,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-async/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2019-07-11T11:31:17.847Z",
+            "latestVersion": "5.0.0",
+            "updated": "2023-11-21T13:22:19.000Z",
             "systemIds": [
                 "org.grails.plugins:async"
             ],
@@ -5707,8 +5707,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-oauth2/issues",
-            "latestVersion": "2.0.0",
-            "updated": "2023-10-19T12:09:08.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2023-11-22T09:45:13.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-oauth2"
             ],
