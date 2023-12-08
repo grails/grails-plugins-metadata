@@ -387,9 +387,9 @@
             ],
             "vcsUrl": "https://github.com/grails/grails-async"
         },
-        "documentationUrl": "https://grails.github.io/grails-async/",
-        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/grails-async/maven-metadata.xml",
-        "readme": "<div id=\"preamble\">\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>This project contains APIs and libraries that integrate Grails with various asynchronous libraries and frameworks such as GPars and RxJava.</p>\n</div>\n</div>\n</div>\n<div class=\"sect1\">\n<h2 id=\"_documentation\">Documentation</h2>\n<div class=\"sectionbody\">\n<div class=\"ulist\">\n<ul>\n<li>\n<p>Latest - <a href=\"http://async.grails.org\" class=\"bare\">http://async.grails.org</a></p>\n</li>\n<li>\n<p>Latest - <a href=\"http://async.grails.org/latest/api\" class=\"bare\">http://async.grails.org/latest/api</a></p>\n</li>\n<li>\n<p>Snapshot Guide - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n<li>\n<p>Snapshot API - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n</ul>\n</div>\n</div>\n</div>"
+        "documentationUrl": "https://async.grails.org/latest/guide/index.html",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/async/maven-metadata.xml",
+        "readme": ""
     },
     {
         "bintrayPackage": {
@@ -1742,16 +1742,16 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-async/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2019-07-11T11:31:56.633Z",
+            "latestVersion": "5.0.0",
+            "updated": "2023-11-21T13:22:31.000Z",
             "systemIds": [
                 "org.grails.plugins:events"
             ],
             "vcsUrl": "https://github.com/grails/grails-async"
         },
-        "documentationUrl": "https://grails.github.io/grails-async/",
-        "mavenMetadataUrl": null,
-        "readme": "<div id=\"preamble\">\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>This project contains APIs and libraries that integrate Grails with various asynchronous libraries and frameworks such as GPars and RxJava.</p>\n</div>\n</div>\n</div>\n<div class=\"sect1\">\n<h2 id=\"_documentation\">Documentation</h2>\n<div class=\"sectionbody\">\n<div class=\"ulist\">\n<ul>\n<li>\n<p>Latest - <a href=\"http://async.grails.org\" class=\"bare\">http://async.grails.org</a></p>\n</li>\n<li>\n<p>Latest - <a href=\"http://async.grails.org/latest/api\" class=\"bare\">http://async.grails.org/latest/api</a></p>\n</li>\n<li>\n<p>Snapshot Guide - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n<li>\n<p>Snapshot API - <a href=\"http://async.grails.org/snapshot\" class=\"bare\">http://async.grails.org/snapshot</a></p>\n</li>\n</ul>\n</div>\n</div>\n</div>"
+        "documentationUrl": "https://async.grails.org/latest/guide/index.html#events",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/events/maven-metadata.xml",
+        "readme": ""
     },
     {
         "bintrayPackage": {
