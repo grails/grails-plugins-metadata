@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.1.0",
-            "updated": "2023-10-05T17:11:10.000Z",
+            "latestVersion": "6.1.2",
+            "updated": "2023-12-08T07:46:58.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -6724,8 +6724,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "2.1.0",
-            "updated": "2023-11-07T15:45:00.000Z",
+            "latestVersion": "2.1.1",
+            "updated": "2023-12-07T10:10:10.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
