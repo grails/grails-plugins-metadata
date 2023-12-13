@@ -2046,8 +2046,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/geb/issues",
-            "latestVersion": "3.0.1",
-            "updated": "2023-10-07T03:46:26.000Z",
+            "latestVersion": "4.0.0",
+            "updated": "2023-12-13T06:17:33.000Z",
             "systemIds": [
                 "org.grails.plugins:geb"
             ],
