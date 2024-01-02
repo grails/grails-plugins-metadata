@@ -1917,17 +1917,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-fields-plugin/grails-fields/issues",
-            "latestVersion": "3.0.0.RC1",
-            "updated": "2019-02-19T14:34:56.333Z",
+            "issueTrackerUrl": "https://github.com/gpc/fields/issues",
+            "latestVersion": "4.0.0",
+            "updated": "2024-01-01T09:34:56.333Z",
             "systemIds": [
-                "org.grails.plugins:fields"
+                "io.github.gpc:fields"
             ],
-            "vcsUrl": "https://github.com/grails-fields-plugin/grails-fields"
+            "vcsUrl": "https://github.com/gpc/fields"
         },
-        "documentationUrl": "https://grails-fields-plugin.github.io/grails-fields/",
-        "mavenMetadataUrl": null,
-        "readme": null
+        "documentationUrl": "https://gpc.github.io/fields/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/gpc/fields/maven-metadata.xml",
+        "readme": "Find the latest documentation here: https://gpc.github.io/fields"
     },
     {
         "displayName": "file-viewer",
