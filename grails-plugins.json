@@ -2947,8 +2947,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.1.2",
-            "updated": "2023-12-08T07:46:58.000Z",
+            "latestVersion": "6.1.3",
+            "updated": "2024-01-11T12:56:58.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
