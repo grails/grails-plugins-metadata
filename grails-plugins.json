@@ -1917,17 +1917,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-fields-plugin/grails-fields/issues",
-            "latestVersion": "3.0.0.RC1",
-            "updated": "2019-02-19T14:34:56.333Z",
+            "issueTrackerUrl": "https://github.com/gpc/fields/issues",
+            "latestVersion": "4.0.0",
+            "updated": "2024-01-01T09:34:56.333Z",
             "systemIds": [
-                "org.grails.plugins:fields"
+                "io.github.gpc:fields"
             ],
-            "vcsUrl": "https://github.com/grails-fields-plugin/grails-fields"
+            "vcsUrl": "https://github.com/gpc/fields"
         },
-        "documentationUrl": "https://grails-fields-plugin.github.io/grails-fields/",
-        "mavenMetadataUrl": null,
-        "readme": null
+        "documentationUrl": "https://gpc.github.io/fields/",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/gpc/fields/maven-metadata.xml",
+        "readme": "Find the latest documentation here: https://gpc.github.io/fields"
     },
     {
         "displayName": "file-viewer",
@@ -3324,16 +3324,16 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/sbglasius/i18n-enums/issues",
-            "latestVersion": "2.0.2",
-            "updated": "2018-12-19T11:19:00.269Z",
+            "latestVersion": "5.0.0",
+            "updated": "2023-12-29T12:00:00.000Z",
             "systemIds": [
                 "org.grails.plugins:i18n-enums"
             ],
             "vcsUrl": "https://github.com/sbglasius/i18n-enums"
         },
         "documentationUrl": "https://sbglasius.github.io/i18n-enums/",
-        "mavenMetadataUrl": null,
-        "readme": "<h1>i18n-enums</h1>\n<p>Successor for the Grails 2.x plugin. Now ported to Grails 3.x</p>\n<p>This plugin adds an annotation usable on Enums to easy add and implement the MessageSourceResolvable interface in an standard way throughout a project.</p>\n<p>Documentation can be found here: http://sbglasius.github.io/i18n-enums/</p>\n"
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/dk/glasius/i18n-enums/maven-metadata.xml",
+        "readme": "<h1>i18n-enums</h1>\n<p>Documentation can be found here: http://sbglasius.github.io/i18n-enums/</p>\n"
     },
     {
         "bintrayPackage": {
