@@ -1918,8 +1918,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/fields/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2024-01-01T09:34:56.333Z",
+            "latestVersion": "5.0.1",
+            "updated": "2024-01-06T17:38:10.000Z",
             "systemIds": [
                 "io.github.gpc:fields"
             ],
