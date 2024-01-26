@@ -5552,8 +5552,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-cas/issues",
-            "latestVersion": "4.0.0-RC1",
-            "updated": "2022-03-11T11:12:59.000Z",
+            "latestVersion": "4.0.0",
+            "updated": "2024-01-26T07:29:57.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-cas"
             ],
@@ -5707,8 +5707,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-spring-security-oauth2/issues",
-            "latestVersion": "3.0.0",
-            "updated": "2023-11-22T09:45:13.000Z",
+            "latestVersion": "3.0.1",
+            "updated": "2024-01-23T14:30:36.000Z",
             "systemIds": [
                 "org.grails.plugins:spring-security-oauth2"
             ],
