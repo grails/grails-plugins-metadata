@@ -1008,8 +1008,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/grails-phone-number-constraint/issues",
-            "latestVersion": "2.0.2",
-            "updated": "2016-03-31T13:31:54.830Z",
+            "latestVersion": "1.0.0",
+            "updated": "2024-02-06T11:35:24.000Z",
             "systemIds": [
                 "io.github.gpc:phone-number-constraint"
             ],
@@ -2971,8 +2971,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.1.3",
-            "updated": "2024-01-11T12:56:58.000Z",
+            "latestVersion": "6.2.0",
+            "updated": "2024-02-03T08:40:09.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -6748,8 +6748,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/matrei/grails-inertia-plugin/issues",
-            "latestVersion": "2.1.1",
-            "updated": "2023-12-07T10:10:10.000Z",
+            "latestVersion": "2.1.2",
+            "updated": "2024-02-07T09:49:38.000Z",
             "systemIds": [
                 "io.github.matrei:grails-inertia-plugin"
             ],
