@@ -1942,8 +1942,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/fields/issues",
-            "latestVersion": "5.0.1",
-            "updated": "2024-01-06T17:38:10.000Z",
+            "latestVersion": "5.0.2",
+            "updated": "2024-02-15T07:41:06.000Z",
             "systemIds": [
                 "io.github.gpc:fields"
             ],
@@ -3648,8 +3648,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/jms/issues",
-            "latestVersion": "4.0.1",
-            "updated": "2022-11-18T11:24:51.000Z",
+            "latestVersion": "4.0.2",
+            "updated": "2024-02-15T14:45:33.000Z",
             "systemIds": [
                 "io.github.gpc:jms",
                 "org.grails.plugins:jms"
