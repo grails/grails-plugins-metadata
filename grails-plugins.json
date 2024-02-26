@@ -1184,7 +1184,7 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/grails-plugins/grails-plugin-converters/issues",
+            "issueTrackerUrl": "https://github.com/grails/grails-plugin-converters/issues",
             "latestVersion": "4.0.1",
             "updated": "2020-07-08T16:25:11.150Z",
             "systemIds": [
@@ -1193,7 +1193,7 @@
             "vcsUrl": "https://github.com/grails-plugins/grails-plugin-converters"
         },
         "documentationUrl": null,
-        "mavenMetadataUrl": null,
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/org/grails/plugins/converters/maven-metadata.xml",
         "readme": "<h2>Grails Converters</h2>\n<p>This is the Converters plugin that has been part of Grails core up until version 3.3 and now is a standalone plugin.</p>\n<p>Users of Grails 3.3.x and above should use this plugin.</p>\n<h3>Installation</h3>\n<p>Simply add the dependency to your <code>build.gradle</code> file:</p>\n<pre><code class=\"language-groovy\">compile &quot;org.grails.plugins:converters&quot;\n</code></pre>\n"
     },
     {
