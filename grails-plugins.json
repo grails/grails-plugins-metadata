@@ -1185,8 +1185,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-plugin-converters/issues",
-            "latestVersion": "4.0.1",
-            "updated": "2020-07-08T16:25:11.150Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-02-26T10:59:18.000Z",
             "systemIds": [
                 "org.grails.plugins:converters"
             ],
