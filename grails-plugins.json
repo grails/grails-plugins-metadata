@@ -1942,8 +1942,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/fields/issues",
-            "latestVersion": "5.0.2",
-            "updated": "2024-02-15T07:41:06.000Z",
+            "latestVersion": "5.0.3",
+            "updated": "2024-04-08T19:47:32.000Z",
             "systemIds": [
                 "io.github.gpc:fields"
             ],
@@ -2170,8 +2170,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.68",
-            "updated": "2024-03-20T01:54:58.000Z",
+            "latestVersion": "7.3.70",
+            "updated": "2024-04-08T23:40:15.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -2823,8 +2823,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.2.1",
-            "updated": "2024-03-22T06:36:02.000Z",
+            "latestVersion": "3.2.3",
+            "updated": "2024-04-04T11:02:57.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json"
             ],
@@ -3746,8 +3746,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.1.0",
-            "updated": "2023-03-10T00:46:34.000Z",
+            "latestVersion": "2.1.2",
+            "updated": "2024-04-17T22:25:32.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -6449,8 +6449,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.2.1",
-            "updated": "2024-03-22T06:36:01.000Z",
+            "latestVersion": "3.2.3",
+            "updated": "2024-04-04T11:02:55.000Z",
             "systemIds": [
                 "org.grails.plugins:views-gradle"
             ],
@@ -6474,8 +6474,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.2.1",
-            "updated": "2024-03-22T06:36:05.000Z",
+            "latestVersion": "3.2.3",
+            "updated": "2024-04-04T11:03:05.000Z",
             "systemIds": [
                 "org.grails.plugins:views-json-templates"
             ],
@@ -6499,8 +6499,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-views/issues",
-            "latestVersion": "3.2.1",
-            "updated": "2024-03-22T06:36:06.000Z",
+            "latestVersion": "3.2.3",
+            "updated": "2024-04-04T11:03:08.000Z",
             "systemIds": [
                 "org.grails.plugins:views-markup"
             ],
