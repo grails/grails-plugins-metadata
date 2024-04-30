@@ -1274,6 +1274,30 @@
     },
     {
         "bintrayPackage": {
+            "name": "csrf",
+            "repo": "grails-csrf-plugin",
+            "owner": "matrei",
+            "desc": "CSRF Protection for Grails",
+            "labels": [
+                "csrf",
+                "security"
+            ],
+            "licenses": [
+                "Apache-2.0"
+            ],
+            "issueTrackerUrl": "https://github.com/matrei/grails-csrf-plugin/issues",
+            "latestVersion": "1.0.0",
+            "updated": "2024-04-30T11:17:36.000Z",
+            "systemIds": [
+                "io.github.matrei:grails-csrf"
+            ],
+            "vcsUrl": "https://github.com/matrei/grails-csrf-plugin"
+        },
+        "documentationUrl": "https://github.com/matrei/grails-csrf-plugin#readme",
+        "mavenMetadataUrl": "https://repo1.maven.org/maven2/io/github/matrei/grails-csrf/maven-metadata.xml"
+    },
+    {
+        "bintrayPackage": {
             "name": "csv",
             "repo": "plugins",
             "owner": "sachinverma",
