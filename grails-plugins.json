@@ -2194,8 +2194,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.70",
-            "updated": "2024-04-08T23:40:15.000Z",
+            "latestVersion": "7.3.73",
+            "updated": "2024-07-01T04:40:11.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -4695,8 +4695,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-quartz/issues",
-            "latestVersion": "2.0.13",
-            "updated": "2020-07-06T19:52:28.590Z",
+            "latestVersion": "3.0.0",
+            "updated": "2024-04-04T01:05:36.000Z",
             "systemIds": [
                 "org.grails.plugins:quartz"
             ],
