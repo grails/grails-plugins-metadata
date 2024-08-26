@@ -331,8 +331,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.3.0",
-            "updated": "2023-05-01T16:23:55.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:02:42.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:asset-pipeline-grails"
             ],
@@ -1058,8 +1058,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.4.0",
-            "updated": "2023-09-26T20:27:14.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:02:53.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:coffee-asset-pipeline"
             ],
@@ -1765,8 +1765,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.4.0",
-            "updated": "2023-09-26T20:27:16.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:02:57.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:ember-asset-pipeline"
             ],
@@ -2194,8 +2194,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.70",
-            "updated": "2024-04-08T23:40:15.000Z",
+            "latestVersion": "7.3.74",
+            "updated": "2024-07-22T04:22:31.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -3020,8 +3020,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.4.0",
-            "updated": "2023-09-26T20:27:17.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:03:05.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:handlebars-asset-pipeline"
             ],
@@ -3770,8 +3770,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.1.2",
-            "updated": "2024-04-17T22:25:32.000Z",
+            "latestVersion": "2.2.3",
+            "updated": "2024-08-25T20:47:20.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -3846,8 +3846,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/less-asset-pipeline/issues",
-            "latestVersion": "4.4.0",
-            "updated": "2023-09-26T20:27:19.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:03:13.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:less-asset-pipeline"
             ],
@@ -4695,8 +4695,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-quartz/issues",
-            "latestVersion": "2.0.13",
-            "updated": "2020-07-06T19:52:28.590Z",
+            "latestVersion": "3.0.0",
+            "updated": "2024-04-04T01:05:36.000Z",
             "systemIds": [
                 "org.grails.plugins:quartz"
             ],
@@ -5253,8 +5253,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.4.0",
-            "updated": "2023-09-26T20:27:21.000Z",
+            "latestVersion": "4.5.1",
+            "updated": "2024-07-25T16:03:17.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:sass-asset-pipeline"
             ],
