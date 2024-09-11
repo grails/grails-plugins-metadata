@@ -3770,8 +3770,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.2.5",
-            "updated": "2024-08-28T00:18:46.000Z",
+            "latestVersion": "2.3.0",
+            "updated": "2024-08-31T12:04:18.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -5277,8 +5277,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
-            "latestVersion": "5.0.1",
-            "updated": "2023-10-12T03:19:36.000Z",
+            "latestVersion": "5.1.0",
+            "updated": "2024-09-11T13:23:03.000Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
