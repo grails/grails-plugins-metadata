@@ -331,8 +331,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:02:42.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:00.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:asset-pipeline-grails"
             ],
@@ -1058,8 +1058,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:02:53.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:08.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:coffee-asset-pipeline"
             ],
@@ -1765,8 +1765,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:02:57.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:11.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:ember-asset-pipeline"
             ],
@@ -3020,8 +3020,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:03:05.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:13.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:handlebars-asset-pipeline"
             ],
@@ -3846,8 +3846,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/less-asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:03:13.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:18.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:less-asset-pipeline"
             ],
@@ -5253,8 +5253,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "4.5.1",
-            "updated": "2024-07-25T16:03:17.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-09-12T00:34:21.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:sass-asset-pipeline"
             ],
