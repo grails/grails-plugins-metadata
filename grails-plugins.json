@@ -2995,8 +2995,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-gsp/issues",
-            "latestVersion": "6.2.1",
-            "updated": "2024-03-06T16:47:26.000Z",
+            "latestVersion": "6.2.3",
+            "updated": "2024-10-04T01:03:19.000Z",
             "systemIds": [
                 "org.grails.plugins:gsp"
             ],
@@ -3770,8 +3770,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.3.0",
-            "updated": "2024-08-31T12:04:18.000Z",
+            "latestVersion": "2.3.2",
+            "updated": "2024-09-18T16:10:31.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -5277,8 +5277,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/scaffolding/issues",
-            "latestVersion": "5.1.0",
-            "updated": "2024-09-11T13:23:03.000Z",
+            "latestVersion": "5.1.2",
+            "updated": "2024-10-03T21:41:31.000Z",
             "systemIds": [
                 "org.grails.plugins:scaffolding"
             ],
@@ -5378,8 +5378,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/seed-me/issues",
-            "latestVersion": "5.0.5",
-            "updated": "2022-12-23T16:08:21.000Z",
+            "latestVersion": "5.0.7",
+            "updated": "2024-09-18T17:11:01.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:seed-me"
             ],
