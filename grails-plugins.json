@@ -2194,8 +2194,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.74",
-            "updated": "2024-07-22T04:22:31.000Z",
+            "latestVersion": "7.3.76",
+            "updated": "2024-10-09T17:07:28.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -5378,8 +5378,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/seed-me/issues",
-            "latestVersion": "5.0.7",
-            "updated": "2024-09-18T17:11:01.000Z",
+            "latestVersion": "5.0.8",
+            "updated": "2024-10-09T15:25:27.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:seed-me"
             ],
