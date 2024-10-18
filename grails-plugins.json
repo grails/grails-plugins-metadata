@@ -2068,8 +2068,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/grails-force-ssl/issues",
-            "latestVersion": "5.0.1",
-            "updated": "2022-02-09T14:50:23.000Z",
+            "latestVersion": "5.0.2",
+            "updated": "2024-10-10T14:04:45.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:grails-force-ssl",
                 "com.bertramlabs.plugins:force-ssl"
@@ -2194,8 +2194,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.76",
-            "updated": "2024-10-09T17:07:28.000Z",
+            "latestVersion": "7.3.77",
+            "updated": "2024-10-17T19:53:23.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
