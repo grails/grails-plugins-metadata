@@ -3770,8 +3770,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.3.2",
-            "updated": "2024-09-18T16:10:31.000Z",
+            "latestVersion": "2.3.3",
+            "updated": "2024-10-18T19:45:53.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
