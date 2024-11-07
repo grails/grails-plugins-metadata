@@ -959,8 +959,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/gpc/grails-phone-number-constraint/issues",
-            "latestVersion": "2.0.2",
-            "updated": "2016-03-31T13:31:54.830Z",
+            "latestVersion": "1.0.0",
+            "updated": "2024-02-06T11:35:24.000Z",
             "systemIds": [
                 "io.github.gpc:phone-number-constraint"
             ],
