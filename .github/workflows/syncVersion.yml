@@ -7,16 +7,14 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     env:
-      GIT_USER_NAME: puneetbehl
-      GIT_USER_EMAIL: behlp@unityfoundation.io
+      GIT_USER_NAME: 'grails-build'
+      GIT_USER_EMAIL: 'grails-build@users.noreply.github.com'
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Sync Latest Version
+      - name: "📥 Checkout repository"
+        uses: actions/checkout@v4
+      - name: "🔄 Sync Latest Version"
         uses: ./.github/actions/sync-latest-version
-      - name: Create Pull Request
+      - name: "✨ Create Pull Request"
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
