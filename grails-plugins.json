@@ -417,11 +417,11 @@
         "readme": "<p><a href=\"https://github.com/gpc/grails-asynchronous-mail\">See the README</a> on GitHub</p>"
     },
     {
-        "comment": "This entry has had its owner changed from robertoschwald to symentis as that seems to be the maintained repo going forward. This comment can be removed if this is correct.",
+        "comment": "The GPC is now maintaining the repo.",
         "bintrayPackage": {
             "name": "audit-logging",
             "repo": "plugins",
-            "owner": "symentis",
+            "owner": "gpc",
             "desc": "Grails Audit-Logging Plugin.",
             "labels": [
                 "auditing"
@@ -429,17 +429,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/symentis/grails-audit-logging-plugin/issues",
+            "issueTrackerUrl": "https://github.com/gpc/grails-audit-logging-plugin/issues",
             "latestVersion": "4.0.3",
             "updated": "2021-02-03T16:27:11.971Z",
             "systemIds": [
                 "org.grails.plugins:audit-logging"
             ],
-            "vcsUrl": "https://github.com/symentis/grails-audit-logging-plugin"
+            "vcsUrl": "https://github.com/gpc/grails-audit-logging-plugin"
         },
-        "documentationUrl": "https://symentis.github.io/grails-audit-logging-plugin",
+        "documentationUrl": "https://gpc.github.io/grails-audit-logging-plugin",
         "mavenMetadataUrl": null,
-        "readme": "<h1>Grails Audit Logging Plugin</h1>\n<h2>Description</h2>\n<p>The Audit Logging plugin for Grails adds generic event based Audit Logging to a Grails project.</p>\n<p>The master branch holds the codebase for plugin version 4.0.x (Grails 4.0.x).</p>\n<p>We currently work on a Grails 4.x branch using a new approach. See <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/pull/212\">PR 212</a></p>\n<p>For older Grails versions, see &quot;Supported Grails Versions&quot; below.</p>\n<h2>Documentation</h2>\n<ul>\n<li>For current release documentation, see <a href=\"https://robertoschwald.github.io/grails-audit-logging-plugin/latest/plugin.html\">User Guide</a></li>\n<li>For snapshot documentation, see <a href=\"https://robertoschwald.github.io/grails-audit-logging-plugin/snapshot/plugin.html\">Snapshot User Guide</a></li>\n<li>For 3.x documentation, see <a href=\"https://robertoschwald.github.io/grails-audit-logging-plugin/3.0.x/plugin.html\">3.x User Guide</a></li>\n<li>For 2.x documentation, see <a href=\"https://robertoschwald.github.io/grails-audit-logging-plugin/2.0.x/plugin.html\">2.x User Guide</a></li>\n<li>For 1.x documentation, see <a href=\"http://grails.org/plugin/audit-logging\" title=\"Grails Plugin Page\">1.x Grails Plugin Page</a></li>\n</ul>\n<h2>Supported Grails versions</h2>\n<ul>\n<li>Grails 4.0.x: <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/tree/master\">master branch</a> <a href=\"https://bintray.com/robertoschwald/plugins/audit-logging/_latestVersion\"><img src=\"https://api.bintray.com/packages/robertoschwald/plugins/audit-logging/images/download.svg\" alt=\"Download\" /></a></li>\n<li>Grails 3.3.x: <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/tree/3.x_maintenance\">3.x_maintenance branch</a> <a href=\"https://bintray.com/robertoschwald/plugins/audit-logging/3.0.6/link\"><img src=\"https://api.bintray.com/packages/robertoschwald/plugins/audit-logging/images/download.svg?version=3.0.6\" alt=\"Download\" /></a></li>\n<li>Grails 3.0.x-3.2.x: <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/tree/2.x_maintenance\">2.x_maintenance branch</a> <a href=\"https://bintray.com/robertoschwald/plugins/audit-logging/2.0.6/link\"><img src=\"https://api.bintray.com/packages/robertoschwald/plugins/audit-logging/images/download.svg?version=2.0.6\" alt=\"Download\" /></a></li>\n<li>Grails 2.x: <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/tree/1.x_maintenance\">1.x_maintenance branch</a></li>\n</ul>\n<h2>audit-quickstart</h2>\n<p>You need to perform &quot;grails audit-quickstart &lt;package&gt; &lt;DomainClass&gt;&quot; after installing this plugin's 2.0.x version or later.</p>\n<p>With this, you get an auditlog domain class in your project which is fully under your control.\nThe domain name is registered in your application.groovy with key &quot;grails.plugins.auditLog.auditDomainClassName&quot;.</p>\n<p>Example:</p>\n<pre><code>grails audit-quickstart org.example.myproject MyAuditLogEvent\n</code></pre>\n<h2>Issue Management</h2>\n<p>See <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/issues\" title=\"Issues\">GitHub Issues</a></p>\n<h2>Pull Requests</h2>\n<p>Pull requests are highly appreciated and welcome!</p>\n<p>Please add integration tests for new features to the audit-test application.</p>\n<h2>Contributors</h2>\n<p>Special thanks to all the <a href=\"https://github.com/robertoschwald/grails-audit-logging-plugin/graphs/contributors\">contributors</a> (in alphabetical order):</p>\n<pre><code>Aaron Long\nAldrin\nAndrey Zhuchkov\nAnkur Tripathi\nBurt Beckwith\nbzamora33\nDanny Casady\nDennie de Lange\nDhiraj Mahapatro\nElmar Kretzer\nFelix Scheinost\nFernando Cambarieri\nGraeme Rocher\nJeff Palmer\nJorge Aguilera\nJuergen Baumann\nMadhava Jay\nMatt Long\nMatthew A Stewart\nPaul Taylor\nSami M\ufffd\ufffd\ufffd\ufffdkel\ufffd\ufffd\ufffd\ufffd\nSebastien Arbogast\nSemyon Atamas\nShawn Hartsock\nTom Crossland\n\nProject lead: Robert Oschwald\n</code></pre>\n<h2>Continuous Integration Server</h2>\n<p><a href=\"https://travis-ci.org/robertoschwald/grails-audit-logging-plugin\"><img src=\"https://travis-ci.org/robertoschwald/grails-audit-logging-plugin.svg?branch=master\" alt=\"Build Status\" /></a></p>\n<h2>Bintray Repository</h2>\n<p><a href='https://bintray.com/robertoschwald/plugins/audit-logging/view?source=watch' alt='Get automatic notifications about new \"audit-logging\" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a></p>\n<p><a href=\"https://bintray.com/robertoschwald/plugins/audit-logging/_latestVersion\"><img src=\"https://api.bintray.com/packages/robertoschwald/plugins/audit-logging/images/download.svg\" alt=\"Download\" /></a></p>\n<hr />\n<p><a href=\"https://www.yourkit.com/java/profiler/index.jsp\"><img src=\"https://www.yourkit.com/images/yklogo.png\" alt=\"YourKit Java Profiler\"/></a></p>\n<p>YourKit is kindly supporting Grails open source projects with its full-featured Java Profiler.\nYourKit, LLC is the creator of innovative and intelligent tools for profiling\nJava and .NET applications. Take a look at YourKit's leading software products:\n<a href=\"http://www.yourkit.com/java/profiler/index.jsp\">YourKit Java Profiler</a> and\n<a href=\"http://www.yourkit.com/.net/profiler/index.jsp\">YourKit .NET Profiler</a>.</p>\n"
+        "readme": "<h1>Grails Audit Logging Plugin</h1>\n<p><a href=\"https://gpc.github.io/grails-audit-logging-plugin\">Documentation</a></p>"
     },
     {
         "bintrayPackage": {
