@@ -1021,30 +1021,6 @@
     },
     {
         "bintrayPackage": {
-            "name": "phone-number-constraint",
-            "repo": "grails-plugins",
-            "owner": "sbglasius",
-            "desc": "Grails Phone Number Constraint Plugin",
-            "labels": [
-                "validation"
-            ],
-            "licenses": [
-                "Apache-2.0"
-            ],
-            "issueTrackerUrl": "https://github.com/gpc/grails-phone-number-constraint/issues",
-            "latestVersion": "1.0.0",
-            "updated": "2024-02-06T11:35:24.000Z",
-            "systemIds": [
-                "io.github.gpc:phone-number-constraint"
-            ],
-            "vcsUrl": "https://github.com/gpc/grails-phone-number-constraint"
-        },
-        "documentationUrl": null,
-        "mavenMetadataUrl": "https://repo.maven.apache.org/maven2/io/github/gpc/phone-number-constraint/maven-metadata.xml",
-        "readme": "This plugin establishes a `phoneNumber` constraint property for validateable objects, that being domain objects, and objects implementing `grails.validation.Validateable`. It relies on Google's [libphonenumber](https://github.com/google/libphonenumber) Java implementation"
-    },
-    {
-        "bintrayPackage": {
             "name": "cmeditor",
             "repo": "maven",
             "owner": "frnktrgr",
