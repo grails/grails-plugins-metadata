@@ -331,8 +331,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:18.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:12.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:asset-pipeline-grails"
             ],
@@ -1058,8 +1058,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:26.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:20.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:coffee-asset-pipeline"
             ],
@@ -1388,8 +1388,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/grails-database-migration/issues",
-            "latestVersion": "4.2.1",
-            "updated": "2023-08-31T03:18:31.000Z",
+            "latestVersion": "5.0.0",
+            "updated": "2024-12-18T22:20:28.000Z",
             "systemIds": [
                 "org.grails.plugins:database-migration"
             ],
@@ -1765,8 +1765,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:29.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:22.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:ember-asset-pipeline"
             ],
@@ -2094,8 +2094,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails/geb/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2023-12-13T06:17:33.000Z",
+            "latestVersion": "4.1.0",
+            "updated": "2024-12-13T00:37:03.000Z",
             "systemIds": [
                 "org.grails.plugins:geb"
             ],
@@ -3020,8 +3020,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:31.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:25.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:handlebars-asset-pipeline"
             ],
@@ -3846,8 +3846,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/less-asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:36.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:29.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:less-asset-pipeline"
             ],
@@ -5253,8 +5253,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/asset-pipeline/issues",
-            "latestVersion": "5.0.3",
-            "updated": "2024-12-12T14:37:39.000Z",
+            "latestVersion": "5.0.5",
+            "updated": "2024-12-20T04:07:32.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:sass-asset-pipeline"
             ],
