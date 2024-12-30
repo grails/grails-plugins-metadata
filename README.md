@@ -1,39 +1,40 @@
-# Grails Plugin Portal - Metadata
+# Grails Plugin Page Data Source
+This repository hosts the data used by the [Grails Plugin Page](https://www.grails.org/plugins.html) to list and display plugin information.
 
-This repository hosts the metadata used by Grails Plugin Portal to list/show plugins information.
-
-## Update Information on the Grails Plugin Portal
-The Grails Plugin Portal uses the [grails-plugins.json](grails-plugins.json) metadata file to display plugin information.
-
-When you publish a new plugin or release an existing plugin, you must send a pull request to this file to update the information on the portal.
-
-1. When you release a new plugin, add the following information at the end of the JSON file:
+## Adding Your Plugin to the Grails Plugin Page
+To have your plugin listed on the Grails Plugin Page, follow these steps:
+ 
+1. Open the [grails-plugins.json](grails-plugins.json) file in this repository.
+2. Add a new entry with the following structure to the **end of the JSON list**:
 
 ```json
 {
     "bintrayPackage": {
-        "name": "My Plugin",
-        "repo": "plugins",
-        "owner": "puneetbehl",
-        "desc": "A concise description",
+        "name": "Your Plugin Name",
+        "repo": "your-plugin-repo-name",
+        "owner": "your-github-username",
+        "desc": "A concise description of your plugin",
         "labels": [
-                "grails3",
-                "spring-boot",
-                "test-label"
+            "relevant-label",
+            "check-existing-labels"
         ],
         "licenses": [
-                "Apache-2.0"
+            "Apache-2.0"
         ],
-        "issueTrackerUrl": "https://github.com/puneetbehl/myplugin/issues",
-        "latestVersion": "1.1",
-        "updated": "2021-03-25T04:00:40.855Z",
+        "issueTrackerUrl": "https://github.com/your-github-username/your-plugin-repo/issues",
+        "latestVersion": "1.0",
+        "updated": "2024-12-25T04:00:40.855Z",
         "systemIds": [
-                "io.github.puneetbehl:myplugin"
+            "your.plugin.maven:coords"
         ],
-        "vcsUrl": "https://github.com/puneetbehl/myplugin"
+        "vcsUrl": "https://github.com/your-github-username/your-plugin-repo-name"
     },
-    "documentationUrl": "https://puneetbehl.github.io/myplugin/",
-    "mavenMetadataUrl": "https://repo1.maven.org/maven2/com/github/puneetbehl/myplugin/maven-metadata.xml"
-} 
+    "documentationUrl": "https://github.com/your-github-username/your-plugin-repo-name#readme",
+    "mavenMetadataUrl": "https://repo1.maven.org/maven2/your/plugin/maven/coords/maven-metadata.xml"
+}
 ```
-2. If you publish a new version to Maven Central, locate the entry in the JSON file and updatelatestVersion and mavenMetadataUrl. This will reflect the latest version in the plugin portal. In the future, we will use the mavenMetadataUrl field to automatically update the latest version.
+3. Create a **Pull Request** with your changes.
+4. Wait for approval. Once merged, your plugin will appear on the Grails Plugin Page.
+
+## Updating Your Plugin
+When you release a new version of your plugin, the system will automatically generate a Pull Request to update your plugin's entry in this repository. A member of the Grails team will review and merge the update.
