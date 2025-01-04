@@ -1486,8 +1486,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/distributed-lock/issues",
-            "latestVersion": "4.0.11",
-            "updated": "2022-10-05T00:17:57.274Z",
+            "latestVersion": "7.0.0",
+            "updated": "2024-12-30T16:49:04.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:distributed-lock"
             ],
@@ -2068,8 +2068,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/grails-force-ssl/issues",
-            "latestVersion": "5.0.2",
-            "updated": "2024-10-10T14:04:45.000Z",
+            "latestVersion": "7.0.0",
+            "updated": "2024-12-30T16:52:03.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:grails-force-ssl",
                 "com.bertramlabs.plugins:force-ssl"
@@ -2194,8 +2194,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/yakworks/gorm-tools/issues",
-            "latestVersion": "7.3.77",
-            "updated": "2024-10-17T19:53:23.000Z",
+            "latestVersion": "7.3.78",
+            "updated": "2025-01-03T23:47:46.000Z",
             "systemIds": [
                 "org.yakworks:gorm-tools",
                 "org.grails.plugins:gorm-tools"
@@ -3770,8 +3770,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/karman-core/issues",
-            "latestVersion": "2.3.3",
-            "updated": "2024-10-18T19:45:53.000Z",
+            "latestVersion": "3.0.0",
+            "updated": "2024-12-30T16:52:56.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:karman-grails"
             ],
@@ -5353,8 +5353,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/grails-security-bridge/issues",
-            "latestVersion": "4.0.0",
-            "updated": "2021-03-31T00:45:04.000Z",
+            "latestVersion": "7.0.0",
+            "updated": "2024-12-30T16:59:22.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:grails-security-bridge",
                 "com.bertramlabs.plugins:security-bridge"
@@ -5378,8 +5378,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/seed-me/issues",
-            "latestVersion": "5.0.8",
-            "updated": "2024-10-09T15:25:27.000Z",
+            "latestVersion": "7.0.0",
+            "updated": "2024-12-30T17:01:18.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:seed-me"
             ],
@@ -5427,8 +5427,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/bertramdev/selfie/issues",
-            "latestVersion": "2.1.5",
-            "updated": "2023-05-04T15:15:51.000Z",
+            "latestVersion": "7.0.0",
+            "updated": "2024-12-30T16:56:40.000Z",
             "systemIds": [
                 "com.bertramlabs.plugins:selfie"
             ],
