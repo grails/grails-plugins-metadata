@@ -417,11 +417,11 @@
         "readme": "<p><a href=\"https://github.com/gpc/grails-asynchronous-mail\">See the README</a> on GitHub</p>"
     },
     {
-        "comment": "The GPC is now maintaining the repo.",
+        "comment": "Now lives in https://github.com/grails-plugins/",
         "bintrayPackage": {
             "name": "audit-logging",
-            "repo": "plugins",
-            "owner": "gpc",
+            "repo": "grails-audit-logging-plugin",
+            "owner": "grails-plugins",
             "desc": "Grails Audit-Logging Plugin.",
             "labels": [
                 "auditing"
@@ -429,17 +429,17 @@
             "licenses": [
                 "Apache-2.0"
             ],
-            "issueTrackerUrl": "https://github.com/gpc/grails-audit-logging-plugin/issues",
+            "issueTrackerUrl": "https://github.com/grails-plugins/grails-audit-logging-plugin/issues",
             "latestVersion": "4.0.3",
             "updated": "2021-02-03T16:27:11.971Z",
             "systemIds": [
                 "org.grails.plugins:audit-logging"
             ],
-            "vcsUrl": "https://github.com/gpc/grails-audit-logging-plugin"
+            "vcsUrl": "https://github.com/grails-plugins/grails-audit-logging-plugin"
         },
-        "documentationUrl": "https://gpc.github.io/grails-audit-logging-plugin",
+        "documentationUrl": "https://grails-plugins.github.io/grails-audit-logging-plugin",
         "mavenMetadataUrl": null,
-        "readme": "<h1>Grails Audit Logging Plugin</h1>\n<p><a href=\"https://gpc.github.io/grails-audit-logging-plugin\">Documentation</a></p>"
+        "readme": "<h1>Grails Audit Logging Plugin</h1>\n<p><a href=\"https://grails-plugins.github.io/grails-audit-logging-plugin\">Documentation</a></p>"
     },
     {
         "bintrayPackage": {
