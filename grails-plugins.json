@@ -6176,8 +6176,8 @@
                 "Apache-2.0"
             ],
             "issueTrackerUrl": "https://github.com/grails-spring-security-saml/grails-spring-security-saml/issues",
-            "latestVersion": "6.0.8",
-            "updated": "2025-01-30T09:53:38.000Z",
+            "latestVersion": "6.0.9",
+            "updated": "2025-02-28T09:48:46.000Z",
             "systemIds": [
                 "io.github.grails-spring-security-saml:spring-security-saml"
             ],
